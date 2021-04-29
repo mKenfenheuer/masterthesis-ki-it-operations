@@ -1,0 +1,47 @@
+Evaluation Metrics
+---------------------
+Mean Absolute Error: 32,637
+Root Mean Squared Error: 50,854
+
+---------------------
+Date: 01.01.2020
+Actual Incidents: 12
+Forecast:         152,01071
+Lower Estimate:   107,83452
+Upper Estimate:   196,1869
+
+Date: 02.01.2020
+Actual Incidents: 190
+Forecast:         152,01071
+Lower Estimate:   94,11193
+Upper Estimate:   209,90948
+
+Date: 03.01.2020
+Actual Incidents: 154
+Forecast:         152,01071
+Lower Estimate:   83,0687
+Upper Estimate:   220,95273
+
+Date: 04.01.2020
+Actual Incidents: 17
+Forecast:         152,01071
+Lower Estimate:   73,56498
+Upper Estimate:   230,45645
+
+Date: 05.01.2020
+Actual Incidents: 13
+Forecast:         152,01071
+Lower Estimate:   65,094284
+Upper Estimate:   238,92714
+
+Date: 06.01.2020
+Actual Incidents: 211
+Forecast:         152,01071
+Lower Estimate:   57,37881
+Upper Estimate:   246,64261
+
+Date: 07.01.2020
+Actual Incidents: 238
+Forecast:         152,01071
+Lower Estimate:   50,246616
+Upper Estimate:   253,77481

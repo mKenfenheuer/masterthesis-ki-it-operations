@@ -1,0 +1,1001 @@
+﻿Severity;Time;HourOfDay;Host;Problem;Urgency;Assignment Group
+Information;22.03.21 20:46;20;sysmail;System name has changed (new name: mailgateway);0 - Very Low;Data Center Services
+Warning;22.03.21 20:44;20;sysmail;High swap space usage ( less than 50% free);0 - Very Low;Data Center Services
+Average;22.03.21 20:44;20;sysmail;Load average is too high (per CPU load over 1.5 for 5m);2 - Medium;Data Center Services
+Average;22.03.21 20:42;20;sysmail;Zabbix agent is not available (for 3m);2 - Medium;Data Center Services
+Warning;22.03.21 20:37;20;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Information;22.03.21 20:32;20;asterisk;/etc/passwd has been changed;3 - High;Data Center Services
+Warning;22.03.21 20:28;20;sysmail;sysmail has been restarted (uptime < 10m);3 - High;Data Center Services
+Average;22.03.21 20:23;20;asterisk;Load average is too high (per CPU load over 1.5 for 5m);2 - Medium;Data Center Services
+Average;22.03.21 20:22;20;asterisk;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Warning;22.03.21 20:21;20;asterisk;High swap space usage ( less than 50% free);0 - Very Low;Data Center Services
+Information;22.03.21 20:00;20;GS1900-24;Interface GigabitEthernet7( ): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Warning;22.03.21 19:06;19;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Warning;22.03.21 17:05;17;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Information;22.03.21 14:50;14;GS1900-24;Interface GigabitEthernet7( ): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Warning;22.03.21 13:32;13;GitLab Contabo;High swap space usage ( less than 50% free);0 - Very Low;Data Center Services
+Warning;22.03.21 13:06;13;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Information;22.03.21 11:11;11;GS1900-10HP Gartenhaus;Interface GigabitEthernet6(): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Information;22.03.21 08:30;8;GS1900-24;Interface GigabitEthernet7( ): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Warning;22.03.21 07:08;7;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Information;22.03.21 02:35;2;GS1900-24;Interface GigabitEthernet7( ): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Warning;22.03.21 01:06;1;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Warning;21.03.21 23:45;23;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Warning;21.03.21 21:32;21;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Warning;21.03.21 20:43;20;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Information;21.03.21 20:20;20;GS1900-24;Interface GigabitEthernet7( ): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Warning;21.03.21 19:55;19;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Warning;21.03.21 19:05;19;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+High;21.03.21 15:33;15;Cloudflare DNS;Unavailable by ICMP ping;3 - High;Network Services
+High;21.03.21 15:32;15;Cloudflare DNS 2;Unavailable by ICMP ping;3 - High;Network Services
+High;21.03.21 15:32;15;Google DNS 2;Unavailable by ICMP ping;3 - High;Network Services
+High;21.03.21 15:32;15;Google DNS;Unavailable by ICMP ping;3 - High;Network Services
+Warning;21.03.21 14:54;14;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Information;21.03.21 14:20;14;GS1900-24;Interface GigabitEthernet7( ): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Warning;21.03.21 13:06;13;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Information;21.03.21 08:20;8;GS1900-24;Interface GigabitEthernet7( ): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Warning;21.03.21 07:05;7;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Information;21.03.21 02:25;2;GS1900-24;Interface GigabitEthernet7( ): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Warning;21.03.21 01:05;1;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Information;20.03.21 20:20;20;GS1900-24;Interface GigabitEthernet7( ): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Warning;20.03.21 19:06;19;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Information;20.03.21 14:15;14;GS1900-24;Interface GigabitEthernet7( ): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Warning;20.03.21 13:05;13;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Information;20.03.21 08:20;8;GS1900-24;Interface GigabitEthernet7( ): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Warning;20.03.21 07:05;7;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Information;20.03.21 02:20;2;GS1900-24;Interface GigabitEthernet7( ): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Warning;20.03.21 01:05;1;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Warning;19.03.21 21:49;21;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Information;19.03.21 20:15;20;GS1900-24;Interface GigabitEthernet7( ): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Warning;19.03.21 19:05;19;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Warning;19.03.21 15:35;15;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Information;19.03.21 14:50;14;GS1900-24;Interface GigabitEthernet7( ): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Warning;19.03.21 13:08;13;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Information;19.03.21 08:10;8;GS1900-24;Interface GigabitEthernet7( ): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Warning;19.03.21 07:06;7;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Information;19.03.21 02:10;2;GS1900-24;Interface GigabitEthernet7( ): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Warning;19.03.21 01:33;1;SSTG4400;sda: Disk read/write request responses are too high (read > 20 ms for 15m or write > 20 ms for 15m);2 - Medium;Data Center Services
+Warning;19.03.21 01:05;1;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Information;18.03.21 20:05;20;GS1900-24;Interface GigabitEthernet7( ): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Warning;18.03.21 19:05;19;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Information;18.03.21 14:00;14;GS1900-24;Interface GigabitEthernet7( ): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Warning;18.03.21 13:08;13;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Information;18.03.21 08:00;8;GS1900-24;Interface GigabitEthernet7( ): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Warning;18.03.21 07:06;7;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Information;18.03.21 02:00;2;GS1900-24;Interface GigabitEthernet7( ): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Warning;18.03.21 01:05;1;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Information;17.03.21 20:00;20;GS1900-24;Interface GigabitEthernet7( ): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Warning;17.03.21 19:05;19;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Information;17.03.21 13:55;13;GS1900-24;Interface GigabitEthernet7( ): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Warning;17.03.21 13:05;13;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Information;17.03.21 07:55;7;GS1900-24;Interface GigabitEthernet7( ): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Warning;17.03.21 07:05;7;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Information;17.03.21 01:50;1;GS1900-24;Interface GigabitEthernet7( ): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Warning;17.03.21 01:05;1;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Information;16.03.21 23:46;23;GS1900-10HP Gartenhaus;Interface GigabitEthernet6(): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Information;16.03.21 23:25;23;GS1900-24;Interface GigabitEthernet7( ): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Warning;16.03.21 20:06;20;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Warning;16.03.21 19:06;19;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Warning;16.03.21 16:06;16;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Warning;16.03.21 15:34;15;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Warning;16.03.21 15:27;15;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Warning;16.03.21 15:17;15;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Warning;16.03.21 15:05;15;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Warning;16.03.21 14:48;14;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Warning;16.03.21 14:32;14;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Warning;16.03.21 13:06;13;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Warning;16.03.21 07:06;7;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Warning;16.03.21 01:05;1;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Warning;15.03.21 22:33;22;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Warning;15.03.21 19:06;19;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Warning;15.03.21 13:06;13;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Warning;15.03.21 07:05;7;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Warning;15.03.21 01:05;1;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Warning;14.03.21 19:09;19;GS1900-24;Interface GigabitEthernet7( ): High bandwidth usage ( > 90% );1 - Low;Network Services
+Information;14.03.21 14:10;14;GS1900-24;Interface GigabitEthernet7( ): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Information;13.03.21 19:45;19;GS1900-24;Interface GigabitEthernet7( ): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Warning;13.03.21 19:07;19;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Information;13.03.21 01:40;1;GS1900-24;Interface GigabitEthernet7( ): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Warning;13.03.21 01:06;1;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Information;12.03.21 19:40;19;GS1900-24;Interface GigabitEthernet7( ): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Warning;12.03.21 19:05;19;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Information;12.03.21 13:45;13;GS1900-24;Interface GigabitEthernet7( ): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Warning;12.03.21 13:06;13;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Information;11.03.21 19:40;19;GS1900-24;Interface GigabitEthernet7( ): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Warning;11.03.21 19:05;19;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Information;11.03.21 14:25;14;GS1900-24;Interface GigabitEthernet7( ): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Information;11.03.21 07:40;7;GS1900-24;Interface GigabitEthernet7( ): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Warning;11.03.21 07:07;7;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Information;11.03.21 01:40;1;GS1900-24;Interface GigabitEthernet7( ): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Warning;11.03.21 01:06;1;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Information;10.03.21 19:40;19;GS1900-24;Interface GigabitEthernet7( ): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Warning;10.03.21 19:07;19;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Information;10.03.21 13:40;13;GS1900-24;Interface GigabitEthernet7( ): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Warning;10.03.21 13:05;13;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Information;10.03.21 07:40;7;GS1900-24;Interface GigabitEthernet7( ): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Warning;10.03.21 07:05;7;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Information;10.03.21 01:40;1;GS1900-24;Interface GigabitEthernet7( ): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Warning;10.03.21 01:06;1;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Information;09.03.21 19:40;19;GS1900-24;Interface GigabitEthernet7( ): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Warning;09.03.21 19:04;19;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Information;09.03.21 16:00;16;GS1900-24;Interface GigabitEthernet7( ): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Warning;09.03.21 16:00;16;GS1900-24;Interface GigabitEthernet7( ): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;09.03.21 15:19;15;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Average;09.03.21 15:18;15;Zabbix server;Load average is too high (per CPU load over 1.5 for 5m);2 - Medium;Data Center Services
+Information;09.03.21 14:25;14;GS1900-24;Interface GigabitEthernet7( ): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Information;09.03.21 14:05;14;GS1900-24;Interface GigabitEthernet7( ): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Information;09.03.21 13:20;13;GS1900-24;Interface GigabitEthernet7( ): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Warning;08.03.21 15:29;15;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Warning;08.03.21 15:22;15;SSTG4400;sda: Disk read/write request responses are too high (read > 20 ms for 15m or write > 20 ms for 15m);2 - Medium;Data Center Services
+Warning;08.03.21 14:57;14;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Warning;08.03.21 12:24;12;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Average;08.03.21 12:06;12;Zabbix server;Load average is too high (per CPU load over 1.5 for 5m);2 - Medium;Data Center Services
+Warning;07.03.21 19:05;19;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Information;07.03.21 18:21;18;GS1900-10HP Gartenhaus;Interface GigabitEthernet6(): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Information;07.03.21 13:50;13;GS1900-24;Interface GigabitEthernet7( ): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Warning;07.03.21 07:06;7;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Warning;06.03.21 19:05;19;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Average;06.03.21 17:05;17;Zabbix server;Load average is too high (per CPU load over 1.5 for 5m);2 - Medium;Data Center Services
+Information;06.03.21 13:55;13;GS1900-24;Interface GigabitEthernet7( ): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Warning;06.03.21 13:05;13;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Warning;06.03.21 12:50;12;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Information;06.03.21 08:50;8;GS1900-24;Interface GigabitEthernet7( ): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Information;06.03.21 03:00;3;GS1900-24;Interface GigabitEthernet7( ): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Warning;06.03.21 02:28;2;DC1;CPU privileged time is too high (over 30% for 5m);2 - Medium;Data Center Services
+Warning;06.03.21 02:26;2;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Warning;06.03.21 02:09;2;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Warning;06.03.21 01:57;1;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Warning;06.03.21 01:14;1;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Warning;06.03.21 01:05;1;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Information;05.03.21 21:34;21;GitLab Contabo;/etc/passwd has been changed;3 - High;Data Center Services
+Information;05.03.21 20:55;20;GS1900-24;Interface GigabitEthernet7( ): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Warning;05.03.21 20:55;20;GS1900-24;Interface GigabitEthernet7( ): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;05.03.21 19:40;19;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Average;05.03.21 18:20;18;DC1;"""UsoSvc"" (Update Orchestrator Service) is not running (startup type automatic delayed)";0 - Very Low;Data Center Services
+Warning;05.03.21 18:20;18;DC1;Host has been restarted (uptime < 10m);2 - Medium;Data Center Services
+Warning;05.03.21 18:01;18;SSTG4400;sda: Disk read/write request responses are too high (read > 20 ms for 15m or write > 20 ms for 15m);2 - Medium;Data Center Services
+Average;05.03.21 16:43;16;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;05.03.21 16:20;16;GitLab Contabo;Zabbix agent is not available (for 3m);2 - Medium;Data Center Services
+Warning;05.03.21 15:27;15;GitLab Contabo;BWC Contabo has been restarted (uptime < 10m);2 - Medium;Data Center Services
+Average;05.03.21 15:26;15;GitLab Contabo;Zabbix agent is not available (for 3m);2 - Medium;Data Center Services
+Information;05.03.21 14:25;14;GS1900-24;Interface GigabitEthernet7( ): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Warning;05.03.21 14:09;14;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Warning;05.03.21 13:27;13;sql-server;sql-server has been restarted (uptime < 10m);3 - High;Data Center Services
+Warning;05.03.21 13:19;13;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Warning;05.03.21 12:44;12;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Information;05.03.21 11:30;11;GS1900-24;Interface GigabitEthernet7( ): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Average;05.03.21 10:24;10;SSTG4400;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Information;05.03.21 08:25;8;GS1900-24;Interface GigabitEthernet7( ): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Information;05.03.21 02:25;2;GS1900-24;Interface GigabitEthernet7( ): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Warning;05.03.21 01:47;1;vpn;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Information;05.03.21 00:46;0;GS1900-10HP Gartenhaus;Interface GigabitEthernet6(): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Warning;04.03.21 20:53;20;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Warning;04.03.21 20:39;20;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Information;04.03.21 20:35;20;GS1900-24;Interface GigabitEthernet7( ): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Average;04.03.21 20:33;20;SSTG4400;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Warning;04.03.21 20:27;20;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Average;04.03.21 19:27;19;Zabbix server;Load average is too high (per CPU load over 1.5 for 5m);2 - Medium;Data Center Services
+Warning;04.03.21 19:27;19;Zabbix server;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Warning;04.03.21 19:27;19;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Information;04.03.21 17:30;17;GS1900-24;Interface GigabitEthernet7( ): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Warning;04.03.21 15:21;15;GS1900-24;Interface GigabitEthernet7( ): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;04.03.21 15:21;15;GS1900-24;Interface GigabitEthernet5( ): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;04.03.21 14:33;14;GS1900-24;Interface GigabitEthernet7( ): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;04.03.21 14:33;14;GS1900-24;Interface GigabitEthernet5( ): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;04.03.21 14:12;14;GS1900-24;Interface GigabitEthernet7( ): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;04.03.21 14:09;14;GS1900-24;Interface GigabitEthernet5( ): High bandwidth usage ( > 90% );1 - Low;Network Services
+Information;04.03.21 11:55;11;GS1900-24;Interface GigabitEthernet7( ): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Information;04.03.21 08:20;8;GS1900-24;Interface GigabitEthernet7( ): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Information;04.03.21 02:15;2;GS1900-24;Interface GigabitEthernet7( ): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Information;04.03.21 00:36;0;GS1900-10HP Gartenhaus;Interface GigabitEthernet6(): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Information;04.03.21 00:30;0;GS1900-24;Interface GigabitEthernet7( ): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Information;03.03.21 20:21;20;GS1900-10HP Gartenhaus;Interface GigabitEthernet6(): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Information;03.03.21 20:05;20;GS1900-24;Interface GigabitEthernet7( ): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Warning;03.03.21 17:49;17;GitLab Contabo;BWC Contabo has been restarted (uptime < 10m);2 - Medium;Data Center Services
+Information;03.03.21 17:49;17;GitLab Contabo;/etc/passwd has been changed;3 - High;Data Center Services
+Information;03.03.21 17:15;17;GS1900-24;Interface GigabitEthernet7( ): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Warning;03.03.21 16:41;16;SSTG4400;/data/R10_2000G: Disk space is low (used > 80%);2 - Medium;Data Center Services
+Warning;03.03.21 16:20;16;sql-server;/: Disk space is low (used > 80%);2 - Medium;Data Center Services
+Information;03.03.21 14:18;14;GS1900-24;Interface GigabitEthernet7( ): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Information;03.03.21 13:35;13;GS1900-24;Interface GigabitEthernet7( ): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Information;03.03.21 12:25;12;GS1900-24;Interface GigabitEthernet7( ): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Information;03.03.21 07:25;7;GS1900-24;Interface GigabitEthernet7( ): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Information;03.03.21 02:30;2;GS1900-24;Interface GigabitEthernet7( ): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Warning;03.03.21 02:30;2;GS1900-24;Interface GigabitEthernet7( ): High bandwidth usage ( > 90% );1 - Low;Network Services
+Information;03.03.21 00:50;0;GS1900-24;Interface GigabitEthernet7( ): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Information;03.03.21 00:35;0;GS1900-24;Interface GigabitEthernet7( ): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Information;03.03.21 00:15;0;GS1900-24;Interface GigabitEthernet7( ): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Warning;03.03.21 00:15;0;GS1900-24;Interface GigabitEthernet7( ): High bandwidth usage ( > 90% );1 - Low;Network Services
+High;28.02.21 04:28;4;Cloudflare DNS 2;Unavailable by ICMP ping;3 - High;Network Services
+High;28.02.21 04:28;4;Google DNS 2;Unavailable by ICMP ping;3 - High;Network Services
+High;28.02.21 04:28;4;Google DNS;Unavailable by ICMP ping;3 - High;Network Services
+High;28.02.21 04:28;4;Cloudflare DNS;Unavailable by ICMP ping;3 - High;Network Services
+High;28.02.21 03:20;3;px4-300d;Free disk space is less than 2% on volume /mnt/pools/A/A0;3 - High;Data Center Services
+Warning;28.02.21 01:15;1;px4-300d;Free disk space is less than 10% on volume /mnt/pools/A/A0;2 - Medium;Data Center Services
+Warning;27.02.21 15:10;15;asterisk;asterisk has been restarted (uptime < 10m);2 - Medium;Data Center Services
+Information;25.02.21 20:01;20;px4-300d;Operational status was changed on px4-300d interface bond0;3 - High;Data Center Services
+Average;25.02.21 19:25;19;Zabbix server;Load average is too high (per CPU load over 1.5 for 5m);2 - Medium;Data Center Services
+Warning;25.02.21 19:19;19;sysmail;sysmail has been restarted (uptime < 10m);3 - High;Data Center Services
+Average;25.02.21 19:14;19;sysmail;Zabbix agent is not available (for 3m);2 - Medium;Data Center Services
+High;25.02.21 19:12;19;sysmail;Unavailable by ICMP ping;3 - High;Network Services
+Information;25.02.21 19:06;19;px4-300d;Operational status was changed on px4-300d interface bond0;3 - High;Data Center Services
+Average;25.02.21 19:01;19;sql-server;/: Disk space is critically low (used > 90%);3 - High;Data Center Services
+Warning;25.02.21 18:53;18;sql-server;sql-server has been restarted (uptime < 10m);3 - High;Data Center Services
+Warning;25.02.21 18:52;18;sql-server;/: Disk space is low (used > 80%);2 - Medium;Data Center Services
+Information;25.02.21 18:51;18;FritzBox;Change of public IPv6 address;3 - High;Data Center Services
+Information;25.02.21 18:51;18;FritzBox;Change of public IPv4 address;3 - High;Data Center Services
+Warning;25.02.21 18:51;18;Zabbix server;Zabbix server has been restarted (uptime < 10m);2 - Medium;Data Center Services
+Warning;25.02.21 18:24;18;GS1900-10HP Gartenhaus;No SNMP data collection;2 - Medium;Network Services
+Average;25.02.21 18:14;18;Zabbix server;Zabbix unreachable poller processes more than 75% busy;2 - Medium;Data Center Services
+Warning;25.02.21 18:10;18;Zabbix server;Zabbix server has been restarted (uptime < 10m);2 - Medium;Data Center Services
+High;25.02.21 15:52;15;Webcam Terrasse;Unavailable by ICMP ping;3 - High;Network Services
+High;25.02.21 15:51;15;FritzBox;WAN not connected;3 - High;Data Center Services
+High;25.02.21 15:51;15;FritzBox;WAN interface down;3 - High;Data Center Services
+Information;25.02.21 15:51;15;FritzBox;Change of public IPv6 address;3 - High;Data Center Services
+Information;25.02.21 15:51;15;FritzBox;Change of public IPv4 address;3 - High;Data Center Services
+Average;25.02.21 15:49;15;sysmail;Zabbix agent is not available (for 3m);2 - Medium;Data Center Services
+Average;25.02.21 15:49;15;sql-server;Zabbix agent is not available (for 3m);2 - Medium;Data Center Services
+Average;25.02.21 15:49;15;SSTG4400;Zabbix agent is not available (for 3m);2 - Medium;Data Center Services
+Average;25.02.21 15:49;15;vpn;Zabbix agent is not available (for 3m);2 - Medium;Data Center Services
+Average;25.02.21 15:48;15;Webcam Gang Vorne;HTTP service is down on Webcam Gang Vorne;3 - High;Data Center Services
+Average;25.02.21 15:48;15;Webcam Gartenhaus;HTTP service is down on Webcam Gartenhaus;3 - High;Data Center Services
+Average;25.02.21 15:48;15;Webcam Gang;HTTP service is down on Webcam Gang;3 - High;Data Center Services
+Average;25.02.21 15:48;15;Webcam Terrasse;HTTP service is down on Webcam Terrasse;3 - High;Data Center Services
+High;25.02.21 15:47;15;Fritz Repeater;Unavailable by ICMP ping;3 - High;Network Services
+High;25.02.21 15:47;15;asterisk;Unavailable by ICMP ping;3 - High;Network Services
+High;25.02.21 15:47;15;Webcam Gang Vorne;Unavailable by ICMP ping;3 - High;Network Services
+High;25.02.21 15:47;15;Webcam Gartenhaus;Unavailable by ICMP ping;3 - High;Network Services
+High;25.02.21 15:47;15;Webcam Gang;Unavailable by ICMP ping;3 - High;Network Services
+High;25.02.21 15:47;15;GS1900-10HP Gartenhaus;Unavailable by ICMP ping;3 - High;Network Services
+High;25.02.21 15:47;15;GS1900-10HP;Unavailable by ICMP ping;3 - High;Network Services
+High;25.02.21 15:47;15;GS1900-24;Unavailable by ICMP ping;3 - High;Network Services
+High;25.02.21 15:47;15;sysmail;Unavailable by ICMP ping;3 - High;Network Services
+High;25.02.21 15:47;15;sql-server;Unavailable by ICMP ping;3 - High;Network Services
+High;25.02.21 15:47;15;vpn;Unavailable by ICMP ping;3 - High;Network Services
+Average;25.02.21 15:46;15;asterisk;Zabbix agent is not available (for 3m);2 - Medium;Data Center Services
+Warning;25.02.21 15:46;15;Zabbix server;Zabbix server has been restarted (uptime < 10m);2 - Medium;Data Center Services
+Average;25.02.21 15:45;15;DC1;Zabbix agent is not available (for 3m);2 - Medium;Data Center Services
+High;25.02.21 15:39;15;DC1;Unavailable by ICMP ping;3 - High;Network Services
+Average;25.02.21 15:39;15;GitLab Contabo;Zabbix agent is not available (for 3m);2 - Medium;Data Center Services
+High;25.02.21 15:37;15;Cloudflare DNS 2;Unavailable by ICMP ping;3 - High;Network Services
+High;25.02.21 15:37;15;Google DNS 2;Unavailable by ICMP ping;3 - High;Network Services
+High;25.02.21 15:37;15;Google DNS;Unavailable by ICMP ping;3 - High;Network Services
+High;25.02.21 15:37;15;Cloudflare DNS;Unavailable by ICMP ping;3 - High;Network Services
+High;25.02.21 15:37;15;FritzBox;Unavailable by ICMP ping;3 - High;Network Services
+Average;25.02.21 14:48;14;sysmail;Lack of available memory ( < 20M of 1.94 GB);3 - High;Data Center Services
+Average;25.02.21 00:41;0;GitLab Contabo;Zabbix agent is not available (for 3m);2 - Medium;Data Center Services
+High;25.02.21 00:38;0;Cloudflare DNS 2;Unavailable by ICMP ping;3 - High;Network Services
+High;25.02.21 00:38;0;Google DNS 2;Unavailable by ICMP ping;3 - High;Network Services
+High;25.02.21 00:38;0;Google DNS;Unavailable by ICMP ping;3 - High;Network Services
+High;25.02.21 00:38;0;Cloudflare DNS;Unavailable by ICMP ping;3 - High;Network Services
+Information;25.02.21 00:16;0;GS1900-10HP Gartenhaus;Interface GigabitEthernet6(): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+High;25.02.21 00:11;0;px4-300d;Disk 2 status require attention: MISSING;3 - High;Data Center Services
+High;25.02.21 00:11;0;px4-300d;RAID status require attention: DEGRADED;3 - High;Data Center Services
+Average;23.02.21 23:13;23;sysmail;Lack of available memory ( < 20M of 1.94 GB);3 - High;Data Center Services
+Information;23.02.21 20:01;20;px4-300d;Media service status was changed for: enabled (1);3 - High;Data Center Services
+Warning;21.02.21 01:13;1;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+High;20.02.21 12:29;12;Fritz Repeater;Unavailable by ICMP ping;3 - High;Network Services
+Information;19.02.21 17:31;17;px4-300d;Media service status was changed for: enabled (1);3 - High;Data Center Services
+Average;17.02.21 23:16;23;sysmail;Lack of available memory ( < 20M of 1.94 GB);3 - High;Data Center Services
+Warning;17.02.21 18:16;18;GS1900-10HP Gartenhaus;GS1900-10HP Gartenhaus has been restarted (uptime < 10m);2 - Medium;Network Services
+Average;17.02.21 18:15;18;Webcam Gartenhaus;HTTP service is down on Webcam Gartenhaus;3 - High;Data Center Services
+High;17.02.21 18:15;18;GS1900-10HP Gartenhaus;Unavailable by ICMP ping;3 - High;Network Services
+High;17.02.21 18:14;18;Webcam Gartenhaus;Unavailable by ICMP ping;3 - High;Network Services
+Information;17.02.21 17:41;17;GS1900-10HP Gartenhaus;Interface GigabitEthernet6(): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Average;17.02.21 16:55;16;DC1;"""MSDTC"" (Distributed Transaction Coordinator) is not running (startup type automatic delayed)";0 - Very Low;Data Center Services
+Average;17.02.21 16:55;16;DC1;"""DPS"" (Diagnoserichtliniendienst) is not running (startup type automatic delayed)";0 - Very Low;Data Center Services
+Average;17.02.21 16:54;16;DC1;"""CDPSvc"" (Plattformdienst f√ºr verbundene Ger√§te) is not running (startup type automatic delayed)";0 - Very Low;Data Center Services
+Warning;17.02.21 16:53;16;DC1;Host has been restarted (uptime < 10m);2 - Medium;Data Center Services
+High;17.02.21 14:43;14;Fritz Repeater;Unavailable by ICMP ping;3 - High;Network Services
+High;17.02.21 13:55;13;Fritz Repeater;Unavailable by ICMP ping;3 - High;Network Services
+Information;13.02.21 23:01;23;px4-300d;Operational status was changed on px4-300d interface bond0;3 - High;Data Center Services
+Information;13.02.21 11:50;11;px4-300d;Operational status was changed on px4-300d interface eth1;3 - High;Data Center Services
+High;13.02.21 09:11;9;px4-300d;Disk 2 status require attention: MISSING;3 - High;Data Center Services
+Warning;13.02.21 01:35;1;GS1900-24;Interface GigabitEthernet21( ): High bandwidth usage ( > 90% );1 - Low;Network Services
+Average;12.02.21 21:01;21;sql-server;/: Disk space is critically low (used > 90%);3 - High;Data Center Services
+Warning;12.02.21 20:00;20;sql-server;/: Disk space is low (used > 80%);2 - Medium;Data Center Services
+High;12.02.21 16:41;16;px4-300d;RAID status require attention: REBUILDING;3 - High;Data Center Services
+Information;12.02.21 16:31;16;px4-300d;Media service status was changed for: disabled (0);3 - High;Data Center Services
+Information;12.02.21 11:16;11;GS1900-10HP;Interface GigabitEthernet5(): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+High;12.02.21 01:21;1;px4-300d;RAID status require attention: REBUILDING;3 - High;Data Center Services
+High;11.02.21 12:31;12;px4-300d;Disk 3 status require attention: MISSING;3 - High;Data Center Services
+High;11.02.21 12:31;12;px4-300d;RAID status require attention: DEGRADED;3 - High;Data Center Services
+High;10.02.21 15:31;15;px4-300d;RAID status require attention: REBUILDING;3 - High;Data Center Services
+Information;10.02.21 00:31;0;px4-300d;Media service status was changed for: enabled (1);3 - High;Data Center Services
+High;09.02.21 14:41;14;px4-300d;Disk 2 status require attention: MISSING;3 - High;Data Center Services
+High;09.02.21 14:41;14;px4-300d;RAID status require attention: DEGRADED;3 - High;Data Center Services
+Average;09.02.21 10:29;10;SSTG4400;/data/R10_2000G: Disk space is critically low (used > 90%);3 - High;Data Center Services
+Average;09.02.21 05:07;5;SSTG4400;/data/R10_2000G: Disk space is critically low (used > 90%);3 - High;Data Center Services
+Average;09.02.21 04:50;4;Zabbix server;Load average is too high (per CPU load over 1.5 for 5m);2 - Medium;Data Center Services
+Average;09.02.21 04:15;4;Zabbix server;Load average is too high (per CPU load over 1.5 for 5m);2 - Medium;Data Center Services
+Warning;09.02.21 03:47;3;SSTG4400;/data/R10_2000G: Disk space is low (used > 80%);2 - Medium;Data Center Services
+Average;09.02.21 03:38;3;Zabbix server;Load average is too high (per CPU load over 1.5 for 5m);2 - Medium;Data Center Services
+Average;09.02.21 03:24;3;Zabbix server;Load average is too high (per CPU load over 1.5 for 5m);2 - Medium;Data Center Services
+Average;09.02.21 03:00;3;Zabbix server;Load average is too high (per CPU load over 1.5 for 5m);2 - Medium;Data Center Services
+Warning;09.02.21 02:48;2;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Average;09.02.21 02:40;2;Zabbix server;Load average is too high (per CPU load over 1.5 for 5m);2 - Medium;Data Center Services
+Average;09.02.21 02:28;2;Zabbix server;Load average is too high (per CPU load over 1.5 for 5m);2 - Medium;Data Center Services
+Warning;09.02.21 02:14;2;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Warning;09.02.21 01:55;1;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Average;09.02.21 01:33;1;Zabbix server;Load average is too high (per CPU load over 1.5 for 5m);2 - Medium;Data Center Services
+Average;09.02.21 00:39;0;Zabbix server;Load average is too high (per CPU load over 1.5 for 5m);2 - Medium;Data Center Services
+Warning;09.02.21 00:36;0;SSTG4400;sda: Disk read/write request responses are too high (read > 20 ms for 15m or write > 20 ms for 15m);2 - Medium;Data Center Services
+Average;09.02.21 00:26;0;Zabbix server;Load average is too high (per CPU load over 1.5 for 5m);2 - Medium;Data Center Services
+Warning;09.02.21 00:04;0;SSTG4400;sda: Disk read/write request responses are too high (read > 20 ms for 15m or write > 20 ms for 15m);2 - Medium;Data Center Services
+Warning;08.02.21 23:59;23;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Average;08.02.21 23:53;23;Zabbix server;Load average is too high (per CPU load over 1.5 for 5m);2 - Medium;Data Center Services
+Average;06.02.21 22:58;22;sysmail;Lack of available memory ( < 20M of 1.94 GB);3 - High;Data Center Services
+Warning;04.02.21 15:04;15;GS1900-10HP;Interface GigabitEthernet5(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;02.02.21 08:01;8;px4-300d;Free disk space is less than 10% on volume /mnt/pools/A/A0;2 - Medium;Data Center Services
+Warning;02.02.21 01:38;1;px4-300d;Free disk space is less than 10% on volume /mnt/pools/A/A0;2 - Medium;Data Center Services
+Warning;01.02.21 18:05;18;px4-300d;Free disk space is less than 10% on volume /mnt/pools/A/A0;2 - Medium;Data Center Services
+Warning;31.01.21 19:49;19;GS1900-10HP;Interface GigabitEthernet5(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Average;29.01.21 23:13;23;GitLab Contabo;Zabbix agent is not available (for 3m);2 - Medium;Data Center Services
+High;29.01.21 23:10;23;Cloudflare DNS;Unavailable by ICMP ping;3 - High;Network Services
+High;29.01.21 23:09;23;Cloudflare DNS 2;Unavailable by ICMP ping;3 - High;Network Services
+High;29.01.21 23:09;23;Google DNS 2;Unavailable by ICMP ping;3 - High;Network Services
+High;29.01.21 23:09;23;Google DNS;Unavailable by ICMP ping;3 - High;Network Services
+Average;29.01.21 19:11;19;sysmail;Lack of available memory ( < 20M of 1.94 GB);3 - High;Data Center Services
+High;28.01.21 12:29;12;Google DNS 2;Unavailable by ICMP ping;3 - High;Network Services
+High;28.01.21 12:29;12;Google DNS;Unavailable by ICMP ping;3 - High;Network Services
+Average;27.01.21 04:54;4;GitLab Contabo;Zabbix agent is not available (for 3m);2 - Medium;Data Center Services
+High;27.01.21 04:51;4;FritzBox;WAN not connected;3 - High;Data Center Services
+High;27.01.21 04:51;4;FritzBox;WAN interface down;3 - High;Data Center Services
+Information;27.01.21 04:51;4;FritzBox;Change of public IPv4 address;3 - High;Data Center Services
+High;27.01.21 04:50;4;Cloudflare DNS 2;Unavailable by ICMP ping;3 - High;Network Services
+High;27.01.21 04:50;4;Google DNS 2;Unavailable by ICMP ping;3 - High;Network Services
+High;27.01.21 04:50;4;Google DNS;Unavailable by ICMP ping;3 - High;Network Services
+High;27.01.21 04:50;4;Cloudflare DNS;Unavailable by ICMP ping;3 - High;Network Services
+Average;27.01.21 04:20;4;GitLab Contabo;Zabbix agent is not available (for 3m);2 - Medium;Data Center Services
+High;27.01.21 04:18;4;Cloudflare DNS 2;Unavailable by ICMP ping;3 - High;Network Services
+High;27.01.21 04:18;4;Google DNS 2;Unavailable by ICMP ping;3 - High;Network Services
+High;27.01.21 04:18;4;Google DNS;Unavailable by ICMP ping;3 - High;Network Services
+High;27.01.21 04:18;4;Cloudflare DNS;Unavailable by ICMP ping;3 - High;Network Services
+Average;27.01.21 02:42;2;GitLab Contabo;Zabbix agent is not available (for 3m);2 - Medium;Data Center Services
+High;27.01.21 02:40;2;Cloudflare DNS 2;Unavailable by ICMP ping;3 - High;Network Services
+High;27.01.21 02:40;2;Google DNS 2;Unavailable by ICMP ping;3 - High;Network Services
+High;27.01.21 02:40;2;Google DNS;Unavailable by ICMP ping;3 - High;Network Services
+High;27.01.21 02:40;2;Cloudflare DNS;Unavailable by ICMP ping;3 - High;Network Services
+Warning;26.01.21 19:57;19;Google DNS;High ICMP ping loss;3 - High;Network Services
+Warning;26.01.21 19:57;19;Cloudflare DNS;High ICMP ping loss;3 - High;Network Services
+Average;26.01.21 19:52;19;GitLab Contabo;Zabbix agent is not available (for 3m);2 - Medium;Data Center Services
+High;26.01.21 19:51;19;FritzBox;WAN not connected;3 - High;Data Center Services
+High;26.01.21 19:51;19;FritzBox;WAN interface down;3 - High;Data Center Services
+Information;26.01.21 19:51;19;FritzBox;Change of public IPv4 address;3 - High;Data Center Services
+High;26.01.21 19:50;19;Cloudflare DNS 2;Unavailable by ICMP ping;3 - High;Network Services
+High;26.01.21 19:50;19;Google DNS 2;Unavailable by ICMP ping;3 - High;Network Services
+High;26.01.21 19:50;19;Google DNS;Unavailable by ICMP ping;3 - High;Network Services
+High;26.01.21 19:50;19;Cloudflare DNS;Unavailable by ICMP ping;3 - High;Network Services
+High;25.01.21 15:36;15;Fritz Repeater;Unavailable by ICMP ping;3 - High;Network Services
+Warning;25.01.21 00:30;0;GS1900-24;Interface GigabitEthernet26( ): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;25.01.21 00:30;0;GS1900-24;Interface GigabitEthernet5( ): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;25.01.21 00:28;0;GS1900-10HP Gartenhaus;Interface GigabitEthernet10(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;25.01.21 00:28;0;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+High;21.01.21 18:08;18;Cloudflare DNS 2;Unavailable by ICMP ping;3 - High;Network Services
+High;21.01.21 18:08;18;Google DNS 2;Unavailable by ICMP ping;3 - High;Network Services
+High;21.01.21 18:08;18;Google DNS;Unavailable by ICMP ping;3 - High;Network Services
+High;21.01.21 18:08;18;Cloudflare DNS;Unavailable by ICMP ping;3 - High;Network Services
+High;21.01.21 18:07;18;FritzBox;Unavailable by ICMP ping;3 - High;Network Services
+Warning;20.01.21 00:47;0;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Warning;20.01.21 00:40;0;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Warning;20.01.21 00:07;0;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Average;19.01.21 23:58;23;SSTG4400;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Warning;19.01.21 11:45;11;asterisk;asterisk has been restarted (uptime < 10m);2 - Medium;Data Center Services
+High;19.01.21 11:43;11;asterisk;Unavailable by ICMP ping;3 - High;Network Services
+Information;19.01.21 11:32;11;asterisk;/etc/passwd has been changed;3 - High;Data Center Services
+Warning;19.01.21 11:28;11;asterisk;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Average;19.01.21 11:28;11;asterisk;Zabbix agent is not available (for 3m);2 - Medium;Data Center Services
+Warning;19.01.21 01:54;1;sql-server;sql-server has been restarted (uptime < 10m);3 - High;Data Center Services
+Average;19.01.21 01:50;1;sql-server;Load average is too high (per CPU load over 1.5 for 5m);2 - Medium;Data Center Services
+Warning;19.01.21 01:47;1;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Average;19.01.21 01:37;1;sql-server;Zabbix agent is not available (for 3m);2 - Medium;Data Center Services
+Average;19.01.21 01:33;1;sql-server;Load average is too high (per CPU load over 1.5 for 5m);2 - Medium;Data Center Services
+Information;19.01.21 01:30;1;sql-server;/etc/passwd has been changed;3 - High;Data Center Services
+Average;19.01.21 01:07;1;vpn;Load average is too high (per CPU load over 1.5 for 5m);2 - Medium;Data Center Services
+Warning;19.01.21 01:07;1;vpn;vpn has been restarted (uptime < 10m);3 - High;Data Center Services
+Warning;19.01.21 01:07;1;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Warning;19.01.21 00:58;0;vpn;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Average;19.01.21 00:56;0;vpn;Load average is too high (per CPU load over 1.5 for 5m);2 - Medium;Data Center Services
+Warning;19.01.21 00:55;0;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Warning;19.01.21 00:50;0;sql-server;sql-server has been restarted (uptime < 10m);3 - High;Data Center Services
+Warning;19.01.21 00:46;0;asterisk;asterisk has been restarted (uptime < 10m);2 - Medium;Data Center Services
+High;19.01.21 00:45;0;asterisk;Unavailable by ICMP ping;3 - High;Network Services
+Average;19.01.21 00:44;0;asterisk;Zabbix agent is not available (for 3m);2 - Medium;Data Center Services
+Information;19.01.21 00:43;0;vpn;/etc/passwd has been changed;3 - High;Data Center Services
+Average;19.01.21 00:41;0;vpn;Load average is too high (per CPU load over 1.5 for 5m);2 - Medium;Data Center Services
+Average;19.01.21 00:33;0;vpn;Load average is too high (per CPU load over 1.5 for 5m);2 - Medium;Data Center Services
+Warning;19.01.21 00:32;0;vpn;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Warning;19.01.21 00:31;0;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Warning;19.01.21 00:24;0;vpn;vpn has been restarted (uptime < 10m);3 - High;Data Center Services
+Average;19.01.21 00:00;0;GitLab Contabo;Zabbix agent is not available (for 3m);2 - Medium;Data Center Services
+Warning;18.01.21 23:59;23;vpn;vpn has been restarted (uptime < 10m);3 - High;Data Center Services
+Average;18.01.21 20:15;20;GitLab Contabo;Zabbix agent is not available (for 3m);2 - Medium;Data Center Services
+Warning;18.01.21 15:37;15;SSTG4400;SSTG4400 has been restarted (uptime < 10m);3 - High;Data Center Services
+Warning;18.01.21 15:34;15;SSTG4400;SSTG4400 has been restarted (uptime < 10m);3 - High;Data Center Services
+Warning;18.01.21 15:31;15;SSTG4400;SSTG4400 has been restarted (uptime < 10m);3 - High;Data Center Services
+Warning;18.01.21 15:29;15;SSTG4400;SSTG4400 has been restarted (uptime < 10m);3 - High;Data Center Services
+Information;18.01.21 15:18;15;SSTG4400;/etc/passwd has been changed;3 - High;Data Center Services
+Warning;18.01.21 15:14;15;SSTG4400;SSTG4400 has been restarted (uptime < 10m);3 - High;Data Center Services
+Warning;18.01.21 15:11;15;SSTG4400;SSTG4400 has been restarted (uptime < 10m);3 - High;Data Center Services
+Warning;18.01.21 15:08;15;SSTG4400;SSTG4400 has been restarted (uptime < 10m);3 - High;Data Center Services
+Warning;18.01.21 15:05;15;SSTG4400;SSTG4400 has been restarted (uptime < 10m);3 - High;Data Center Services
+Warning;18.01.21 15:02;15;SSTG4400;SSTG4400 has been restarted (uptime < 10m);3 - High;Data Center Services
+High;16.01.21 20:02;20;Fritz Repeater;Unavailable by ICMP ping;3 - High;Network Services
+High;16.01.21 19:57;19;Fritz Repeater;Unavailable by ICMP ping;3 - High;Network Services
+Average;16.01.21 15:13;15;sysmail;Lack of available memory ( < 20M of 1.94 GB);3 - High;Data Center Services
+High;16.01.21 11:41;11;Fritz Repeater;Unavailable by ICMP ping;3 - High;Network Services
+Warning;16.01.21 02:08;2;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Warning;16.01.21 01:57;1;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Warning;16.01.21 01:32;1;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Warning;16.01.21 01:18;1;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Warning;16.01.21 01:06;1;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Average;15.01.21 15:11;15;sysmail;Lack of available memory ( < 20M of 1.94 GB);3 - High;Data Center Services
+Warning;15.01.21 01:53;1;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Warning;15.01.21 01:35;1;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Warning;15.01.21 01:14;1;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+High;14.01.21 03:07;3;Google DNS 2;Unavailable by ICMP ping;3 - High;Network Services
+High;14.01.21 03:07;3;Google DNS;Unavailable by ICMP ping;3 - High;Network Services
+Warning;14.01.21 02:07;2;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Warning;14.01.21 01:55;1;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Warning;14.01.21 01:11;1;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Information;13.01.21 21:51;21;GS1900-10HP;Interface GigabitEthernet5(): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Average;13.01.21 13:23;13;GitLab Contabo;Zabbix agent is not available (for 3m);2 - Medium;Data Center Services
+Warning;13.01.21 02:02;2;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Warning;13.01.21 01:14;1;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Warning;12.01.21 18:09;18;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Warning;12.01.21 17:51;17;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Warning;12.01.21 16:45;16;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Average;12.01.21 15:07;15;sysmail;Lack of available memory ( < 20M of 1.94 GB);3 - High;Data Center Services
+Warning;12.01.21 11:46;11;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Warning;12.01.21 09:50;9;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Warning;12.01.21 05:34;5;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Warning;12.01.21 02:48;2;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Warning;12.01.21 02:15;2;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Warning;12.01.21 01:51;1;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Warning;12.01.21 01:05;1;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Warning;11.01.21 17:45;17;SSTG4400;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Average;10.01.21 00:06;0;sysmail;Lack of available memory ( < 20M of 1.94 GB);3 - High;Data Center Services
+Average;09.01.21 00:31;0;sysmail;Lack of available memory ( < 20M of 1.94 GB);3 - High;Data Center Services
+Average;08.01.21 14:05;14;DC1;"""ADSync"" (Microsoft Azure AD Sync) is not running (startup type automatic)";3 - High;Data Center Services
+Warning;08.01.21 14:03;14;DC1;Host has been restarted (uptime < 10m);2 - Medium;Data Center Services
+Average;08.01.21 10:36;10;GitLab Contabo;Zabbix agent is not available (for 3m);2 - Medium;Data Center Services
+Average;07.01.21 20:26;20;sysmail;Lack of available memory ( < 20M of 1.94 GB);3 - High;Data Center Services
+Warning;07.01.21 20:19;20;GS1900-10HP;Interface GigabitEthernet5(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;05.01.21 15:43;15;DC1;Host has been restarted (uptime < 10m);2 - Medium;Data Center Services
+Warning;05.01.21 15:43;15;sql-server;sql-server has been restarted (uptime < 10m);3 - High;Data Center Services
+Warning;05.01.21 15:43;15;asterisk;asterisk has been restarted (uptime < 10m);2 - Medium;Data Center Services
+Warning;05.01.21 15:43;15;vpn;vpn has been restarted (uptime < 10m);3 - High;Data Center Services
+Warning;05.01.21 15:42;15;sysmail;sysmail has been restarted (uptime < 10m);3 - High;Data Center Services
+Warning;05.01.21 15:42;15;Zabbix server;Zabbix server has been restarted (uptime < 10m);2 - Medium;Data Center Services
+Warning;05.01.21 11:45;11;sysmail;sysmail has been restarted (uptime < 10m);3 - High;Data Center Services
+Warning;05.01.21 11:45;11;Zabbix server;Zabbix server has been restarted (uptime < 10m);2 - Medium;Data Center Services
+Warning;05.01.21 11:45;11;DC1;Host has been restarted (uptime < 10m);2 - Medium;Data Center Services
+Warning;05.01.21 11:45;11;asterisk;asterisk has been restarted (uptime < 10m);2 - Medium;Data Center Services
+Warning;05.01.21 11:45;11;vpn;vpn has been restarted (uptime < 10m);3 - High;Data Center Services
+Warning;05.01.21 11:30;11;sql-server;sql-server has been restarted (uptime < 10m);3 - High;Data Center Services
+Average;05.01.21 11:28;11;DC1;"""ADSync"" (Microsoft Azure AD Sync) is not running (startup type automatic)";3 - High;Data Center Services
+Average;05.01.21 11:28;11;DC1;"""UsoSvc"" (Update Orchestrator Service) is not running (startup type automatic delayed)";0 - Very Low;Data Center Services
+Average;05.01.21 11:28;11;DC1;"""UALSVC"" (Dienst f√ºr die Benutzerzugriffsprotokollierung) is not running (startup type automatic delayed)";0 - Very Low;Data Center Services
+Warning;05.01.21 11:26;11;DC1;Host has been restarted (uptime < 10m);2 - Medium;Data Center Services
+Warning;05.01.21 11:23;11;asterisk;asterisk has been restarted (uptime < 10m);2 - Medium;Data Center Services
+Information;05.01.21 11:10;11;GS1900-24;Interface GigabitEthernet16(NAS): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Warning;04.01.21 18:23;18;DC1;Host has been restarted (uptime < 10m);2 - Medium;Data Center Services
+Average;04.01.21 18:21;18;DC1;"""UsoSvc"" (Update Orchestrator Service) is not running (startup type automatic delayed)";0 - Very Low;Data Center Services
+Information;02.01.21 14:46;14;GS1900-10HP;Interface GigabitEthernet4(): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Warning;02.01.21 14:36;14;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Information;02.01.21 13:50;13;GS1900-24;Interface GigabitEthernet16(NAS): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Average;01.01.21 23:06;23;Zabbix server;Load average is too high (per CPU load over 1.5 for 5m);2 - Medium;Data Center Services
+High;01.01.21 21:41;21;px4-300d;RAID status require attention: REBUILDING;3 - High;Data Center Services
+Warning;01.01.21 12:40;12;GS1900-10HP;Interface GigabitEthernet5(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Average;01.01.21 12:17;12;DC1;"""UsoSvc"" (Update Orchestrator Service) is not running (startup type automatic delayed)";0 - Very Low;Data Center Services
+Average;01.01.21 12:17;12;DC1;"""UALSVC"" (Dienst f√ºr die Benutzerzugriffsprotokollierung) is not running (startup type automatic delayed)";0 - Very Low;Data Center Services
+Average;01.01.21 12:17;12;DC1;"""MSDTC"" (Distributed Transaction Coordinator) is not running (startup type automatic delayed)";0 - Very Low;Data Center Services
+Average;01.01.21 12:17;12;DC1;"""DPS"" (Diagnoserichtliniendienst) is not running (startup type automatic delayed)";0 - Very Low;Data Center Services
+Average;01.01.21 12:16;12;DC1;"""CDPSvc"" (Plattformdienst f√ºr verbundene Ger√§te) is not running (startup type automatic delayed)";0 - Very Low;Data Center Services
+Average;01.01.21 12:16;12;DC1;"""AzureADConnectHealthSyncMonitor"" (Azure AD Connect Health Sync Monitoring Service) is not running (startup type automatic delayed)";0 - Very Low;Data Center Services
+Average;01.01.21 12:16;12;DC1;"""AzureADConnectHealthSyncInsights"" (Azure AD Connect Health Sync Insights Service) is not running (startup type automatic delayed)";0 - Very Low;Data Center Services
+Warning;01.01.21 12:15;12;DC1;Host has been restarted (uptime < 10m);2 - Medium;Data Center Services
+Average;01.01.21 10:00;10;sql-server;/: Disk space is critically low (used > 90%);3 - High;Data Center Services
+Warning;01.01.21 08:01;8;sql-server;/: Disk space is low (used > 80%);2 - Medium;Data Center Services
+Average;01.01.21 01:17;1;DC1;Zabbix agent is not available (for 3m);2 - Medium;Data Center Services
+High;01.01.21 01:16;1;DC1;Unavailable by ICMP ping;3 - High;Network Services
+Average;31.12.20 23:49;23;DC1;"""ADSync"" (Microsoft Azure AD Sync) is not running (startup type automatic)";3 - High;Data Center Services
+Warning;31.12.20 23:47;23;DC1;Host has been restarted (uptime < 10m);2 - Medium;Data Center Services
+Warning;31.12.20 23:27;23;asterisk;asterisk has been restarted (uptime < 10m);2 - Medium;Data Center Services
+Warning;31.12.20 23:26;23;Zabbix server;Zabbix server has been restarted (uptime < 10m);2 - Medium;Data Center Services
+Warning;31.12.20 23:26;23;DC1;Host has been restarted (uptime < 10m);2 - Medium;Data Center Services
+Warning;31.12.20 23:26;23;sql-server;sql-server has been restarted (uptime < 10m);3 - High;Data Center Services
+Warning;31.12.20 23:20;23;vpn;vpn has been restarted (uptime < 10m);3 - High;Data Center Services
+Average;31.12.20 00:04;0;sysmail;Lack of available memory ( < 20M of 1.94 GB);3 - High;Data Center Services
+Warning;29.12.20 21:26;21;sysmail;sysmail has been restarted (uptime < 10m);3 - High;Data Center Services
+Warning;27.12.20 19:01;19;sql-server;/: Disk space is low (used > 80%);2 - Medium;Data Center Services
+Warning;27.12.20 15:52;15;GS1900-10HP Gartenhaus;No SNMP data collection;2 - Medium;Network Services
+Warning;27.12.20 15:51;15;GS1900-10HP;No SNMP data collection;2 - Medium;Network Services
+Average;27.12.20 14:52;14;Zabbix server;Zabbix unreachable poller processes more than 75% busy;2 - Medium;Data Center Services
+Warning;27.12.20 14:42;14;sysmail;sysmail has been restarted (uptime < 10m);3 - High;Data Center Services
+Warning;27.12.20 14:42;14;Zabbix server;Zabbix server has been restarted (uptime < 10m);2 - Medium;Data Center Services
+Warning;27.12.20 14:42;14;DC1;Host has been restarted (uptime < 10m);2 - Medium;Data Center Services
+Warning;27.12.20 14:42;14;sql-server;sql-server has been restarted (uptime < 10m);3 - High;Data Center Services
+Average;27.12.20 13:32;13;vpn;Zabbix agent is not available (for 3m);2 - Medium;Data Center Services
+High;27.12.20 13:30;13;vpn;Unavailable by ICMP ping;3 - High;Network Services
+Average;27.12.20 13:16;13;Zabbix server;Zabbix unreachable poller processes more than 75% busy;2 - Medium;Data Center Services
+Warning;27.12.20 13:15;13;sysmail;sysmail has been restarted (uptime < 10m);3 - High;Data Center Services
+Average;27.12.20 13:13;13;asterisk;Zabbix agent is not available (for 3m);2 - Medium;Data Center Services
+Average;27.12.20 13:13;13;GitLab Contabo;Zabbix agent is not available (for 3m);2 - Medium;Data Center Services
+Average;27.12.20 13:11;13;Webcam Gang Vorne;HTTP service is down on Webcam Gang Vorne;3 - High;Data Center Services
+Average;27.12.20 13:11;13;Webcam Gartenhaus;HTTP service is down on Webcam Gartenhaus;3 - High;Data Center Services
+Average;27.12.20 13:11;13;Webcam Gang;HTTP service is down on Webcam Gang;3 - High;Data Center Services
+Average;27.12.20 13:11;13;Webcam Terrasse;HTTP service is down on Webcam Terrasse;3 - High;Data Center Services
+High;27.12.20 13:11;13;Cloudflare DNS 2;Unavailable by ICMP ping;3 - High;Network Services
+High;27.12.20 13:11;13;Google DNS 2;Unavailable by ICMP ping;3 - High;Network Services
+High;27.12.20 13:11;13;Google DNS;Unavailable by ICMP ping;3 - High;Network Services
+High;27.12.20 13:11;13;Cloudflare DNS;Unavailable by ICMP ping;3 - High;Network Services
+High;27.12.20 13:10;13;asterisk;Unavailable by ICMP ping;3 - High;Network Services
+High;27.12.20 13:10;13;Webcam Gang Vorne;Unavailable by ICMP ping;3 - High;Network Services
+High;27.12.20 13:10;13;Webcam Gartenhaus;Unavailable by ICMP ping;3 - High;Network Services
+High;27.12.20 13:10;13;Webcam Gang;Unavailable by ICMP ping;3 - High;Network Services
+High;27.12.20 13:10;13;Webcam Terrasse;Unavailable by ICMP ping;3 - High;Network Services
+High;27.12.20 13:10;13;GS1900-10HP Gartenhaus;Unavailable by ICMP ping;3 - High;Network Services
+High;27.12.20 13:10;13;GS1900-10HP;Unavailable by ICMP ping;3 - High;Network Services
+High;27.12.20 13:10;13;GS1900-24;Unavailable by ICMP ping;3 - High;Network Services
+Warning;26.12.20 14:41;14;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;25.12.20 13:41;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;25.12.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;24.12.20 13:16;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;24.12.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Average;24.12.20 10:44;10;GitLab Contabo;Zabbix agent is not available (for 3m);2 - Medium;Data Center Services
+Average;24.12.20 10:34;10;GitLab Contabo;Zabbix agent is not available (for 3m);2 - Medium;Data Center Services
+Average;23.12.20 23:09;23;GitLab Contabo;Zabbix agent is not available (for 3m);2 - Medium;Data Center Services
+Average;23.12.20 21:18;21;GitLab Contabo;Zabbix agent is not available (for 3m);2 - Medium;Data Center Services
+Warning;23.12.20 13:16;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;23.12.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;22.12.20 13:16;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;22.12.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;21.12.20 13:16;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;21.12.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;20.12.20 14:06;14;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;20.12.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;19.12.20 14:16;14;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;19.12.20 13:44;13;Google DNS;High ICMP ping loss;3 - High;Network Services
+High;19.12.20 13:37;13;Google DNS;Unavailable by ICMP ping;3 - High;Network Services
+High;19.12.20 13:08;13;Google DNS;Unavailable by ICMP ping;3 - High;Network Services
+Warning;19.12.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+High;19.12.20 11:08;11;Google DNS;Unavailable by ICMP ping;3 - High;Network Services
+Warning;18.12.20 13:41;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;18.12.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;17.12.20 13:16;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;17.12.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;16.12.20 13:16;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;16.12.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;15.12.20 13:16;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;15.12.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;14.12.20 13:16;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;14.12.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;13.12.20 14:06;14;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;13.12.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;12.12.20 14:06;14;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;12.12.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;11.12.20 13:46;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;11.12.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;10.12.20 13:16;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;10.12.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;09.12.20 13:16;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;09.12.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;08.12.20 13:16;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;08.12.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;07.12.20 13:16;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;07.12.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;06.12.20 14:11;14;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;06.12.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;05.12.20 14:31;14;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;05.12.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;04.12.20 13:46;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;04.12.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;03.12.20 13:16;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;03.12.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+High;03.12.20 04:18;4;Cloudflare DNS 2;Unavailable by ICMP ping;3 - High;Network Services
+High;03.12.20 04:18;4;Cloudflare DNS;Unavailable by ICMP ping;3 - High;Network Services
+Warning;02.12.20 18:20;18;GS1900-10HP;No SNMP data collection;2 - Medium;Network Services
+Average;02.12.20 18:17;18;Zabbix server;Zabbix unreachable poller processes more than 75% busy;2 - Medium;Data Center Services
+Average;02.12.20 18:13;18;asterisk;Zabbix agent is not available (for 3m);2 - Medium;Data Center Services
+Average;02.12.20 18:13;18;GitLab Contabo;Zabbix agent is not available (for 3m);2 - Medium;Data Center Services
+Average;02.12.20 18:11;18;Webcam Gang Vorne;HTTP service is down on Webcam Gang Vorne;3 - High;Data Center Services
+Average;02.12.20 18:11;18;Webcam Gartenhaus;HTTP service is down on Webcam Gartenhaus;3 - High;Data Center Services
+Average;02.12.20 18:11;18;Webcam Gang;HTTP service is down on Webcam Gang;3 - High;Data Center Services
+Average;02.12.20 18:11;18;Webcam Terrasse;HTTP service is down on Webcam Terrasse;3 - High;Data Center Services
+High;02.12.20 18:10;18;GS1900-10HP Gartenhaus;Unavailable by ICMP ping;3 - High;Network Services
+High;02.12.20 18:10;18;GS1900-10HP;Unavailable by ICMP ping;3 - High;Network Services
+High;02.12.20 18:10;18;GS1900-24;Unavailable by ICMP ping;3 - High;Network Services
+High;02.12.20 18:10;18;Cloudflare DNS 2;Unavailable by ICMP ping;3 - High;Network Services
+High;02.12.20 18:10;18;Google DNS 2;Unavailable by ICMP ping;3 - High;Network Services
+High;02.12.20 18:10;18;Google DNS;Unavailable by ICMP ping;3 - High;Network Services
+High;02.12.20 18:10;18;Cloudflare DNS;Unavailable by ICMP ping;3 - High;Network Services
+High;02.12.20 18:10;18;asterisk;Unavailable by ICMP ping;3 - High;Network Services
+High;02.12.20 18:10;18;Webcam Gang Vorne;Unavailable by ICMP ping;3 - High;Network Services
+High;02.12.20 18:10;18;Webcam Gartenhaus;Unavailable by ICMP ping;3 - High;Network Services
+High;02.12.20 18:10;18;Webcam Gang;Unavailable by ICMP ping;3 - High;Network Services
+High;02.12.20 18:10;18;Webcam Terrasse;Unavailable by ICMP ping;3 - High;Network Services
+Warning;02.12.20 18:09;18;sysmail;sysmail has been restarted (uptime < 10m);3 - High;Data Center Services
+Warning;02.12.20 13:16;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;02.12.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;01.12.20 14:11;14;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;30.11.20 15:41;15;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;30.11.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+High;30.11.20 04:45;4;Cloudflare DNS 2;Unavailable by ICMP ping;3 - High;Network Services
+High;30.11.20 04:45;4;Google DNS 2;Unavailable by ICMP ping;3 - High;Network Services
+High;30.11.20 04:45;4;Google DNS;Unavailable by ICMP ping;3 - High;Network Services
+High;30.11.20 04:45;4;Cloudflare DNS;Unavailable by ICMP ping;3 - High;Network Services
+Warning;29.11.20 18:21;18;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;29.11.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Information;28.11.20 20:31;20;GS1900-10HP;Interface GigabitEthernet5(): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Average;28.11.20 19:45;19;Webcam Gang;HTTP service is down on Webcam Gang;3 - High;Data Center Services
+Average;28.11.20 19:45;19;Webcam Terrasse;HTTP service is down on Webcam Terrasse;3 - High;Data Center Services
+High;28.11.20 19:44;19;Webcam Gang;Unavailable by ICMP ping;3 - High;Network Services
+High;28.11.20 19:44;19;Webcam Terrasse;Unavailable by ICMP ping;3 - High;Network Services
+High;28.11.20 19:40;19;GS1900-10HP Gartenhaus;Unavailable by ICMP ping;3 - High;Network Services
+High;28.11.20 19:40;19;GS1900-24;Unavailable by ICMP ping;3 - High;Network Services
+Average;28.11.20 19:39;19;Webcam Gartenhaus;HTTP service is down on Webcam Gartenhaus;3 - High;Data Center Services
+High;28.11.20 19:39;19;Webcam Gartenhaus;Unavailable by ICMP ping;3 - High;Network Services
+Warning;28.11.20 15:01;15;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;27.11.20 14:11;14;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;27.11.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;26.11.20 13:36;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;26.11.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;25.11.20 13:21;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;25.11.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Average;24.11.20 23:01;23;sql-server;/: Disk space is critically low (used > 90%);3 - High;Data Center Services
+Warning;24.11.20 16:58;16;sql-server;/: Disk space is low (used > 80%);2 - Medium;Data Center Services
+Warning;24.11.20 13:31;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;24.11.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Average;23.11.20 18:34;18;Webcam Terrasse;HTTP service is down on Webcam Terrasse;3 - High;Data Center Services
+Warning;23.11.20 15:26;15;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;23.11.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;23.11.20 01:01;1;sql-server;/: Disk space is low (used > 80%);2 - Medium;Data Center Services
+Warning;22.11.20 17:56;17;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;22.11.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;21.11.20 14:11;14;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;21.11.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;20.11.20 13:56;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;20.11.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;19.11.20 13:21;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;19.11.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;18.11.20 13:46;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;18.11.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;17.11.20 13:21;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;17.11.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+High;16.11.20 14:40;14;Cloudflare DNS 2;Unavailable by ICMP ping;3 - High;Network Services
+High;16.11.20 14:40;14;Google DNS 2;Unavailable by ICMP ping;3 - High;Network Services
+High;16.11.20 14:40;14;Google DNS;Unavailable by ICMP ping;3 - High;Network Services
+High;16.11.20 14:40;14;Cloudflare DNS;Unavailable by ICMP ping;3 - High;Network Services
+Warning;16.11.20 13:21;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;16.11.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;15.11.20 14:11;14;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;15.11.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;14.11.20 13:16;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;14.11.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;13.11.20 13:56;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;13.11.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;12.11.20 13:16;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;12.11.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;11.11.20 13:16;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;11.11.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Average;11.11.20 08:28;8;GitLab Contabo;Zabbix agent is not available (for 3m);2 - Medium;Data Center Services
+High;11.11.20 08:25;8;Cloudflare DNS 2;Unavailable by ICMP ping;3 - High;Network Services
+High;11.11.20 08:25;8;Google DNS 2;Unavailable by ICMP ping;3 - High;Network Services
+High;11.11.20 08:25;8;Google DNS;Unavailable by ICMP ping;3 - High;Network Services
+High;11.11.20 08:25;8;Cloudflare DNS;Unavailable by ICMP ping;3 - High;Network Services
+Warning;10.11.20 13:16;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;10.11.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;09.11.20 13:16;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;09.11.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;08.11.20 14:11;14;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;08.11.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Average;07.11.20 20:31;20;GitLab Contabo;Load average is too high (per CPU load over 1.5 for 5m);2 - Medium;Data Center Services
+Average;07.11.20 20:31;20;GitLab Contabo;Zabbix agent is not available (for 3m);2 - Medium;Data Center Services
+Warning;07.11.20 13:16;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;07.11.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+High;06.11.20 21:14;21;Cloudflare DNS 2;Unavailable by ICMP ping;3 - High;Network Services
+Warning;06.11.20 13:41;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;06.11.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;05.11.20 13:16;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;05.11.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;04.11.20 13:16;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;04.11.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;03.11.20 13:16;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;03.11.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;02.11.20 13:16;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;02.11.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;01.11.20 14:06;14;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;01.11.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;31.10.20 13:16;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;31.10.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;30.10.20 13:36;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;30.10.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;29.10.20 13:16;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;29.10.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;28.10.20 13:16;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;28.10.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;27.10.20 13:16;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;27.10.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;26.10.20 13:16;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;26.10.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;25.10.20 13:51;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;25.10.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;24.10.20 13:11;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;24.10.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;23.10.20 13:41;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;23.10.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;22.10.20 13:11;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;22.10.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;21.10.20 13:11;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;21.10.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;20.10.20 13:11;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;20.10.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;19.10.20 13:11;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;19.10.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;18.10.20 13:51;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;18.10.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;17.10.20 13:16;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;17.10.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;16.10.20 13:46;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;16.10.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Information;15.10.20 18:05;18;GS1900-24;Interface GigabitEthernet18(Telefon Max): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Warning;15.10.20 13:16;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;15.10.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Information;14.10.20 19:00;19;GS1900-24;Interface GigabitEthernet18(Telefon Max): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Warning;14.10.20 13:16;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;14.10.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Information;13.10.20 17:55;17;GS1900-24;Interface GigabitEthernet18(Telefon Max): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Warning;13.10.20 13:11;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;13.10.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Information;12.10.20 16:35;16;GS1900-24;Interface GigabitEthernet18(Telefon Max): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Warning;12.10.20 13:16;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;12.10.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;11.10.20 13:46;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;11.10.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;10.10.20 13:11;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;10.10.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;09.10.20 13:51;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;09.10.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;08.10.20 13:16;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;08.10.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;07.10.20 13:16;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;07.10.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;06.10.20 13:16;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;06.10.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;05.10.20 13:11;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;05.10.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;05.10.20 13:02;13;SSTG4400;SSTG4400 has been restarted (uptime < 10m);3 - High;Data Center Services
+Information;04.10.20 17:25;17;GS1900-24;Interface GigabitEthernet18(Telefon Max): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Warning;04.10.20 13:46;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;04.10.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Information;04.10.20 09:30;9;GS1900-24;Interface GigabitEthernet18(Telefon Max): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Information;04.10.20 07:30;7;GS1900-24;Interface GigabitEthernet18(Telefon Max): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Information;03.10.20 19:25;19;GS1900-24;Interface GigabitEthernet18(Telefon Max): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Warning;03.10.20 13:11;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;03.10.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;03.10.20 13:01;13;SSTG4400;SSTG4400 has been restarted (uptime < 10m);3 - High;Data Center Services
+Information;03.10.20 07:20;7;GS1900-24;Interface GigabitEthernet18(Telefon Max): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Warning;02.10.20 17:29;17;GS1900-10HP;GS1900-10HP has been restarted (uptime < 10m);2 - Medium;Network Services
+Information;02.10.20 17:15;17;GS1900-24;Interface GigabitEthernet18(Telefon Max): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Warning;02.10.20 13:46;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;02.10.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Information;02.10.20 04:25;4;GS1900-24;Interface GigabitEthernet18(Telefon Max): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Information;01.10.20 22:20;22;GS1900-24;Interface GigabitEthernet18(Telefon Max): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Warning;01.10.20 13:16;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;01.10.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+High;01.10.20 04:23;4;Google DNS;Unavailable by ICMP ping;3 - High;Network Services
+High;01.10.20 02:30;2;Google DNS;Unavailable by ICMP ping;3 - High;Network Services
+High;30.09.20 16:05;16;Cloudflare DNS 2;Unavailable by ICMP ping;3 - High;Network Services
+High;30.09.20 16:05;16;Google DNS 2;Unavailable by ICMP ping;3 - High;Network Services
+High;30.09.20 16:05;16;Google DNS;Unavailable by ICMP ping;3 - High;Network Services
+High;30.09.20 16:05;16;Cloudflare DNS;Unavailable by ICMP ping;3 - High;Network Services
+High;30.09.20 16:01;16;asterisk;Unavailable by ICMP ping;3 - High;Network Services
+Average;30.09.20 15:05;15;DC1;"""ADSync"" (Microsoft Azure AD Sync) is not running (startup type automatic)";3 - High;Data Center Services
+Average;30.09.20 15:04;15;DC1;"""CDPSvc"" (Plattformdienst f√ºr verbundene Ger√§te) is not running (startup type automatic delayed)";0 - Very Low;Data Center Services
+Warning;30.09.20 15:02;15;DC1;Host has been restarted (uptime < 10m);2 - Medium;Data Center Services
+Average;30.09.20 15:01;15;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+High;30.09.20 15:01;15;DC1;Unavailable by ICMP ping;3 - High;Network Services
+Warning;30.09.20 13:11;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;30.09.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Average;30.09.20 10:30;10;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;30.09.20 09:38;9;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;30.09.20 09:21;9;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;30.09.20 09:04;9;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;30.09.20 08:49;8;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;30.09.20 08:07;8;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;30.09.20 06:38;6;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;30.09.20 05:57;5;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;30.09.20 05:37;5;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;30.09.20 05:24;5;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;30.09.20 05:08;5;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Warning;29.09.20 13:11;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;29.09.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;29.09.20 13:01;13;SSTG4400;SSTG4400 has been restarted (uptime < 10m);3 - High;Data Center Services
+Warning;28.09.20 15:41;15;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;28.09.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;28.09.20 13:01;13;SSTG4400;SSTG4400 has been restarted (uptime < 10m);3 - High;Data Center Services
+Warning;28.09.20 02:23;2;sql-server;sql-server has been restarted (uptime < 10m);3 - High;Data Center Services
+Average;27.09.20 16:18;16;SSTG4400;Zabbix agent is not available (for 3m);2 - Medium;Data Center Services
+Warning;27.09.20 16:16;16;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;27.09.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;27.09.20 13:02;13;SSTG4400;SSTG4400 has been restarted (uptime < 10m);3 - High;Data Center Services
+Average;26.09.20 14:35;14;SSTG4400;Zabbix agent is not available (for 3m);2 - Medium;Data Center Services
+Warning;26.09.20 14:31;14;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;26.09.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;26.09.20 13:02;13;SSTG4400;SSTG4400 has been restarted (uptime < 10m);3 - High;Data Center Services
+Average;25.09.20 14:53;14;SSTG4400;Zabbix agent is not available (for 3m);2 - Medium;Data Center Services
+Warning;25.09.20 14:51;14;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;25.09.20 13:02;13;SSTG4400;SSTG4400 has been restarted (uptime < 10m);3 - High;Data Center Services
+Average;24.09.20 14:43;14;SSTG4400;Zabbix agent is not available (for 3m);2 - Medium;Data Center Services
+Warning;24.09.20 14:41;14;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;24.09.20 13:02;13;SSTG4400;SSTG4400 has been restarted (uptime < 10m);3 - High;Data Center Services
+Average;23.09.20 14:48;14;SSTG4400;Zabbix agent is not available (for 3m);2 - Medium;Data Center Services
+Warning;23.09.20 14:46;14;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;23.09.20 13:02;13;SSTG4400;SSTG4400 has been restarted (uptime < 10m);3 - High;Data Center Services
+Warning;23.09.20 09:11;9;sql-server;/: Disk space is low (used > 80%);2 - Medium;Data Center Services
+Warning;23.09.20 02:00;2;sql-server;/: Disk space is low (used > 80%);2 - Medium;Data Center Services
+Warning;22.09.20 14:31;14;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Average;22.09.20 14:29;14;SSTG4400;Zabbix agent is not available (for 3m);2 - Medium;Data Center Services
+Warning;22.09.20 13:02;13;SSTG4400;SSTG4400 has been restarted (uptime < 10m);3 - High;Data Center Services
+Warning;22.09.20 02:01;2;sql-server;/: Disk space is low (used > 80%);2 - Medium;Data Center Services
+Average;21.09.20 21:13;21;SSTG4400;Zabbix agent is not available (for 3m);2 - Medium;Data Center Services
+Warning;21.09.20 21:11;21;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;21.09.20 13:02;13;SSTG4400;SSTG4400 has been restarted (uptime < 10m);3 - High;Data Center Services
+Warning;21.09.20 02:01;2;sql-server;/: Disk space is low (used > 80%);2 - Medium;Data Center Services
+Average;20.09.20 16:13;16;SSTG4400;Zabbix agent is not available (for 3m);2 - Medium;Data Center Services
+Warning;20.09.20 16:11;16;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;20.09.20 13:02;13;SSTG4400;SSTG4400 has been restarted (uptime < 10m);3 - High;Data Center Services
+Warning;20.09.20 02:01;2;sql-server;/: Disk space is low (used > 80%);2 - Medium;Data Center Services
+Average;19.09.20 14:43;14;SSTG4400;Zabbix agent is not available (for 3m);2 - Medium;Data Center Services
+Warning;19.09.20 14:41;14;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Information;19.09.20 13:45;13;GS1900-24;Interface GigabitEthernet18(Telefon Max): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Warning;19.09.20 13:02;13;SSTG4400;SSTG4400 has been restarted (uptime < 10m);3 - High;Data Center Services
+Warning;19.09.20 02:01;2;sql-server;/: Disk space is low (used > 80%);2 - Medium;Data Center Services
+Average;18.09.20 14:43;14;SSTG4400;Zabbix agent is not available (for 3m);2 - Medium;Data Center Services
+Warning;18.09.20 14:41;14;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Average;18.09.20 14:34;14;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Warning;18.09.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;18.09.20 13:02;13;SSTG4400;SSTG4400 has been restarted (uptime < 10m);3 - High;Data Center Services
+Warning;18.09.20 02:01;2;sql-server;/: Disk space is low (used > 80%);2 - Medium;Data Center Services
+Warning;17.09.20 17:39;17;GS1900-10HP;GS1900-10HP has been restarted (uptime < 10m);2 - Medium;Network Services
+Warning;17.09.20 14:26;14;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Average;17.09.20 14:25;14;SSTG4400;Zabbix agent is not available (for 3m);2 - Medium;Data Center Services
+Warning;17.09.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+High;17.09.20 05:06;5;Google DNS;Unavailable by ICMP ping;3 - High;Network Services
+High;17.09.20 05:01;5;Google DNS 2;Unavailable by ICMP ping;3 - High;Network Services
+High;17.09.20 04:53;4;Google DNS 2;Unavailable by ICMP ping;3 - High;Network Services
+High;17.09.20 04:53;4;Google DNS;Unavailable by ICMP ping;3 - High;Network Services
+Warning;17.09.20 02:01;2;sql-server;/: Disk space is low (used > 80%);2 - Medium;Data Center Services
+Average;16.09.20 13:15;13;SSTG4400;Zabbix agent is not available (for 3m);2 - Medium;Data Center Services
+Warning;16.09.20 13:11;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;16.09.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;16.09.20 02:01;2;sql-server;/: Disk space is low (used > 80%);2 - Medium;Data Center Services
+Average;15.09.20 13:14;13;SSTG4400;Zabbix agent is not available (for 3m);2 - Medium;Data Center Services
+Warning;15.09.20 13:11;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;15.09.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;15.09.20 13:02;13;SSTG4400;SSTG4400 has been restarted (uptime < 10m);3 - High;Data Center Services
+Warning;15.09.20 11:27;11;GS1900-10HP;GS1900-10HP has been restarted (uptime < 10m);2 - Medium;Network Services
+Warning;15.09.20 02:01;2;sql-server;/: Disk space is low (used > 80%);2 - Medium;Data Center Services
+Average;14.09.20 19:53;19;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;14.09.20 13:18;13;SSTG4400;Zabbix agent is not available (for 3m);2 - Medium;Data Center Services
+Warning;14.09.20 13:16;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;14.09.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;14.09.20 13:01;13;SSTG4400;SSTG4400 has been restarted (uptime < 10m);3 - High;Data Center Services
+Average;14.09.20 11:28;11;SSTG4400;Zabbix agent is not available (for 3m);2 - Medium;Data Center Services
+Warning;14.09.20 11:01;11;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;14.09.20 02:01;2;sql-server;/: Disk space is low (used > 80%);2 - Medium;Data Center Services
+Average;13.09.20 13:50;13;SSTG4400;Zabbix agent is not available (for 3m);2 - Medium;Data Center Services
+Warning;13.09.20 13:44;13;SSTG4400;SSTG4400 has been restarted (uptime < 10m);3 - High;Data Center Services
+Average;13.09.20 13:43;13;SSTG4400;Zabbix agent is not available (for 3m);2 - Medium;Data Center Services
+Warning;13.09.20 13:41;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;13.09.20 13:04;13;GS1900-10HP Gartenhaus;Interface GigabitEthernet7(): High bandwidth usage ( > 90% );1 - Low;Network Services
+Warning;13.09.20 13:02;13;SSTG4400;SSTG4400 has been restarted (uptime < 10m);3 - High;Data Center Services
+Warning;13.09.20 02:01;2;sql-server;/: Disk space is low (used > 80%);2 - Medium;Data Center Services
+Average;12.09.20 17:56;17;SSTG4400;Zabbix agent is not available (for 3m);2 - Medium;Data Center Services
+Average;12.09.20 12:08;12;GitLab Contabo;Zabbix agent is not available (for 3m);2 - Medium;Data Center Services
+Average;12.09.20 12:08;12;vpn;Zabbix agent is not available (for 3m);2 - Medium;Data Center Services
+High;12.09.20 12:05;12;DC1;Unavailable by ICMP ping;3 - High;Network Services
+High;12.09.20 12:05;12;GS1900-10HP Gartenhaus;Unavailable by ICMP ping;3 - High;Network Services
+High;12.09.20 12:05;12;GS1900-10HP;Unavailable by ICMP ping;3 - High;Network Services
+High;12.09.20 12:05;12;GS1900-24;Unavailable by ICMP ping;3 - High;Network Services
+High;12.09.20 12:05;12;sysmail;Unavailable by ICMP ping;3 - High;Network Services
+High;12.09.20 12:05;12;sql-server;Unavailable by ICMP ping;3 - High;Network Services
+High;12.09.20 12:05;12;vpn;Unavailable by ICMP ping;3 - High;Network Services
+High;12.09.20 12:05;12;Cloudflare DNS 2;Unavailable by ICMP ping;3 - High;Network Services
+High;12.09.20 12:05;12;Google DNS 2;Unavailable by ICMP ping;3 - High;Network Services
+High;12.09.20 12:05;12;Google DNS;Unavailable by ICMP ping;3 - High;Network Services
+High;12.09.20 12:05;12;Cloudflare DNS;Unavailable by ICMP ping;3 - High;Network Services
+High;12.09.20 12:05;12;asterisk;Unavailable by ICMP ping;3 - High;Network Services
+Warning;12.09.20 02:01;2;sql-server;/: Disk space is low (used > 80%);2 - Medium;Data Center Services
+Warning;12.09.20 00:37;0;GS1900-10HP;GS1900-10HP has been restarted (uptime < 10m);2 - Medium;Network Services
+Warning;11.09.20 02:01;2;sql-server;/: Disk space is low (used > 80%);2 - Medium;Data Center Services
+Warning;10.09.20 20:19;20;GS1900-10HP Gartenhaus;GS1900-10HP Gartenhaus has been restarted (uptime < 10m);2 - Medium;Network Services
+Warning;10.09.20 02:01;2;sql-server;/: Disk space is low (used > 80%);2 - Medium;Data Center Services
+Warning;27.08.20 22:24;22;GS1900-10HP;GS1900-10HP has been restarted (uptime < 10m);2 - Medium;Network Services
+Information;27.08.20 22:20;22;GS1900-24;Interface GigabitEthernet18(Telefon Max): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Information;25.08.20 17:25;17;GS1900-24;Interface GigabitEthernet18(Telefon Max): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Information;23.08.20 22:05;22;GS1900-24;Interface GigabitEthernet18(Telefon Max): Ethernet has changed to lower speed than it was before;0 - Very Low;Network Services
+Warning;23.08.20 22:05;22;GS1900-24;Interface GigabitEthernet18(Telefon Max): High bandwidth usage ( > 90% );1 - Low;Network Services
+Average;23.08.20 20:41;20;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;23.08.20 20:31;20;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Warning;22.08.20 13:23;13;GS1900-10HP Gartenhaus;GS1900-10HP Gartenhaus has been restarted (uptime < 10m);2 - Medium;Network Services
+Warning;22.08.20 13:21;13;GS1900-10HP Gartenhaus;No SNMP data collection;2 - Medium;Network Services
+Warning;22.08.20 13:21;13;GS1900-10HP Gartenhaus;High ICMP ping loss;3 - High;Network Services
+High;22.08.20 12:55;12;GS1900-10HP Gartenhaus;Unavailable by ICMP ping;3 - High;Network Services
+Warning;21.08.20 22:04;22;GS1900-10HP Gartenhaus;GS1900-10HP Gartenhaus has been restarted (uptime < 10m);2 - Medium;Network Services
+High;21.08.20 20:45;20;GS1900-10HP Gartenhaus;Unavailable by ICMP ping;3 - High;Network Services
+Average;20.08.20 21:14;21;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;19.08.20 21:12;21;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;19.08.20 20:31;20;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;19.08.20 20:08;20;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;19.08.20 12:10;12;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;19.08.20 11:48;11;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;19.08.20 11:26;11;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;19.08.20 11:10;11;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;19.08.20 10:54;10;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;19.08.20 10:17;10;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;19.08.20 09:52;9;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;19.08.20 09:37;9;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;19.08.20 09:20;9;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;19.08.20 08:54;8;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;19.08.20 08:38;8;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;19.08.20 08:20;8;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;19.08.20 08:03;8;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;19.08.20 07:39;7;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;19.08.20 07:20;7;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;19.08.20 07:04;7;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;19.08.20 05:43;5;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;19.08.20 04:24;4;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;19.08.20 03:51;3;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;19.08.20 03:14;3;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;19.08.20 02:54;2;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;19.08.20 02:36;2;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;19.08.20 02:19;2;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;19.08.20 01:58;1;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;19.08.20 01:39;1;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;19.08.20 01:21;1;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;19.08.20 00:57;0;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;19.08.20 00:42;0;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;19.08.20 00:22;0;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;18.08.20 23:21;23;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;18.08.20 23:04;23;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Warning;18.08.20 22:44;22;DC1;High CPU utilization (over 90% for 5m);3 - High;Data Center Services
+Warning;18.08.20 22:43;22;DC1;CPU queue length is too high (over 3 for 5m);2 - Medium;Data Center Services
+Average;18.08.20 21:20;21;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;18.08.20 20:59;20;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+High;18.08.20 20:52;20;Cloudflare DNS 2;Unavailable by ICMP ping;3 - High;Network Services
+High;18.08.20 20:52;20;Google DNS 2;Unavailable by ICMP ping;3 - High;Network Services
+High;18.08.20 20:52;20;Google DNS;Unavailable by ICMP ping;3 - High;Network Services
+High;18.08.20 20:52;20;Cloudflare DNS;Unavailable by ICMP ping;3 - High;Network Services
+Average;18.08.20 20:47;20;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;18.08.20 19:55;19;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;18.08.20 19:36;19;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;18.08.20 19:21;19;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;18.08.20 19:04;19;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;18.08.20 18:42;18;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;18.08.20 18:30;18;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;18.08.20 18:14;18;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;18.08.20 17:57;17;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;18.08.20 17:40;17;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;18.08.20 16:49;16;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;18.08.20 16:35;16;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;18.08.20 16:14;16;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;18.08.20 16:08;16;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;18.08.20 15:05;15;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;18.08.20 13:36;13;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;18.08.20 13:07;13;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;18.08.20 12:35;12;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;18.08.20 12:06;12;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;18.08.20 11:26;11;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;18.08.20 10:18;10;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;18.08.20 10:01;10;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;18.08.20 09:41;9;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;18.08.20 07:52;7;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;18.08.20 07:22;7;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;18.08.20 07:11;7;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;18.08.20 06:52;6;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;18.08.20 06:36;6;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;18.08.20 05:12;5;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;18.08.20 05:02;5;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services
+Average;18.08.20 04:21;4;DC1;High memory utilization ( >90% for 5m);3 - High;Data Center Services

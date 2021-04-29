@@ -1,0 +1,415 @@
+
+Peek data in DataView: Showing 6 rows with the columns
+######################################################
+Row--> | Day:4| Month:6| Year:2018| DayOfWeek:2| SixDaysBefore:0| FiveDaysBefore:0| FourDaysBefore:0| ThreeDaysBefore:0| TwoDaysBefore:0| OneDayBefore:0| Label:2| Features:Dense vector of size 10
+
+Row--> | Day:13| Month:6| Year:2018| DayOfWeek:4| SixDaysBefore:0| FiveDaysBefore:0| FourDaysBefore:0| ThreeDaysBefore:0| TwoDaysBefore:0| OneDayBefore:2| Label:3| Features:Dense vector of size 10
+
+Row--> | Day:14| Month:6| Year:2018| DayOfWeek:5| SixDaysBefore:0| FiveDaysBefore:0| FourDaysBefore:0| ThreeDaysBefore:0| TwoDaysBefore:2| OneDayBefore:3| Label:1| Features:Dense vector of size 10
+
+Row--> | Day:17| Month:6| Year:2018| DayOfWeek:1| SixDaysBefore:0| FiveDaysBefore:0| FourDaysBefore:0| ThreeDaysBefore:2| TwoDaysBefore:3| OneDayBefore:1| Label:3| Features:Dense vector of size 10
+
+Row--> | Day:18| Month:6| Year:2018| DayOfWeek:2| SixDaysBefore:0| FiveDaysBefore:0| FourDaysBefore:2| ThreeDaysBefore:3| TwoDaysBefore:1| OneDayBefore:3| Label:166| Features:Dense vector of size 10
+
+Row--> | Day:19| Month:6| Year:2018| DayOfWeek:3| SixDaysBefore:0| FiveDaysBefore:2| FourDaysBefore:3| ThreeDaysBefore:1| TwoDaysBefore:3| OneDayBefore:166| Label:219| Features:Dense vector of size 10
+
+
+Peek data in DataView: : Show 6 rows with just the 'Features' column
+####################################################################
+
+**** Row 1 with 'Features' field value ****
+4620182000000
+
+
+**** Row 2 with 'Features' field value ****
+13620184200000
+
+
+**** Row 3 with 'Features' field value ****
+14620185320000
+
+
+**** Row 4 with 'Features' field value ****
+17620181132000
+
+
+**** Row 5 with 'Features' field value ****
+18620182313200
+
+
+**** Row 6 with 'Features' field value ****
+1962018316631320
+
+=============== Training the current model ===============
+===== Evaluating Model's accuracy with Test data =====
+*************************************************
+*       Metrics for Microsoft.ML.Trainers.FastTree.FastTreeRegressionTrainer regression model
+*------------------------------------------------
+*       LossFn:        68,03
+*       R2 Score:      0,99
+*       Absolute loss: 4,83
+*       Squared loss:  68,03
+*       RMS loss:      8,25
+*************************************************
+The model is saved to C:\Users\max\GitProjects\GitMasterthesis\IncidentAmountForecast\Regression\ML.IncidentAmountForecast.Regression\bin\Debug\netcoreapp3.1\../../../Models/FastTreeModel.zip
+=============== Training the current model ===============
+===== Evaluating Model's accuracy with Test data =====
+*************************************************
+*       Metrics for Microsoft.ML.Trainers.LbfgsPoissonRegressionTrainer regression model
+*------------------------------------------------
+*       LossFn:        5399,6
+*       R2 Score:      0,26
+*       Absolute loss: 54,44
+*       Squared loss:  5399,6
+*       RMS loss:      73,48
+*************************************************
+The model is saved to C:\Users\max\GitProjects\GitMasterthesis\IncidentAmountForecast\Regression\ML.IncidentAmountForecast.Regression\bin\Debug\netcoreapp3.1\../../../Models/PoissonModel.zip
+=============== Training the current model ===============
+===== Evaluating Model's accuracy with Test data =====
+*************************************************
+*       Metrics for Microsoft.ML.Trainers.SdcaRegressionTrainer regression model
+*------------------------------------------------
+*       LossFn:        3810,69
+*       R2 Score:      0,47
+*       Absolute loss: 47,07
+*       Squared loss:  3810,69
+*       RMS loss:      61,73
+*************************************************
+The model is saved to C:\Users\max\GitProjects\GitMasterthesis\IncidentAmountForecast\Regression\ML.IncidentAmountForecast.Regression\bin\Debug\netcoreapp3.1\../../../Models/SDCAModel.zip
+=============== Training the current model ===============
+===== Evaluating Model's accuracy with Test data =====
+*************************************************
+*       Metrics for Microsoft.ML.Trainers.FastTree.FastTreeTweedieTrainer regression model
+*------------------------------------------------
+*       LossFn:        48,12
+*       R2 Score:      0,99
+*       Absolute loss: 4,84
+*       Squared loss:  48,12
+*       RMS loss:      6,94
+*************************************************
+The model is saved to C:\Users\max\GitProjects\GitMasterthesis\IncidentAmountForecast\Regression\ML.IncidentAmountForecast.Regression\bin\Debug\netcoreapp3.1\../../../Models/FastTreeTweedieModel.zip
+=============== Training the current model ===============
+===== Evaluating Model's accuracy with Test data =====
+*************************************************
+*       Metrics for Microsoft.ML.Trainers.FastTree.FastForestRegressionTrainer regression model
+*------------------------------------------------
+*       LossFn:        1135,1
+*       R2 Score:      0,84
+*       Absolute loss: 17,02
+*       Squared loss:  1135,1
+*       RMS loss:      33,69
+*************************************************
+The model is saved to C:\Users\max\GitProjects\GitMasterthesis\IncidentAmountForecast\Regression\ML.IncidentAmountForecast.Regression\bin\Debug\netcoreapp3.1\../../../Models/FastForestModel.zip
+=============== Training the current model ===============
+===== Evaluating Model's accuracy with Test data =====
+*************************************************
+*       Metrics for Microsoft.ML.Trainers.FastTree.GamRegressionTrainer regression model
+*------------------------------------------------
+*       LossFn:        1199,22
+*       R2 Score:      0,83
+*       Absolute loss: 18,82
+*       Squared loss:  1199,22
+*       RMS loss:      34,63
+*************************************************
+The model is saved to C:\Users\max\GitProjects\GitMasterthesis\IncidentAmountForecast\Regression\ML.IncidentAmountForecast.Regression\bin\Debug\netcoreapp3.1\../../../Models/GamModel.zip
+=============== Training the current model ===============
+===== Evaluating Model's accuracy with Test data =====
+*************************************************
+*       Metrics for Microsoft.ML.Trainers.LightGbm.LightGbmRegressionTrainer regression model
+*------------------------------------------------
+*       LossFn:        175,39
+*       R2 Score:      0,98
+*       Absolute loss: 6,69
+*       Squared loss:  175,39
+*       RMS loss:      13,24
+*************************************************
+The model is saved to C:\Users\max\GitProjects\GitMasterthesis\IncidentAmountForecast\Regression\ML.IncidentAmountForecast.Regression\bin\Debug\netcoreapp3.1\../../../Models/LightGbmModel.zip
+================== Visualize/test 10 predictions for model FastTreeModel.zip ==================
+-------------------------------------------------
+Predicted : 96,66496
+Actual:     190
+-------------------------------------------------
+-------------------------------------------------
+Predicted : 232,48688
+Actual:     154
+-------------------------------------------------
+-------------------------------------------------
+Predicted : 30,580042
+Actual:     17
+-------------------------------------------------
+-------------------------------------------------
+Predicted : 16,92697
+Actual:     13
+-------------------------------------------------
+-------------------------------------------------
+Predicted : 231,42511
+Actual:     211
+-------------------------------------------------
+-------------------------------------------------
+Predicted : 185,88744
+Actual:     238
+-------------------------------------------------
+-------------------------------------------------
+Predicted : 198,76704
+Actual:     201
+-------------------------------------------------
+-------------------------------------------------
+Predicted : 206,6966
+Actual:     222
+-------------------------------------------------
+-------------------------------------------------
+Predicted : 206,88841
+Actual:     164
+-------------------------------------------------
+-------------------------------------------------
+Predicted : 13,656233
+Actual:     11
+-------------------------------------------------
+================== Visualize/test 10 predictions for model PoissonModel.zip ==================
+-------------------------------------------------
+Predicted : 219,25792
+Actual:     190
+-------------------------------------------------
+-------------------------------------------------
+Predicted : 356,73874
+Actual:     154
+-------------------------------------------------
+-------------------------------------------------
+Predicted : 119,65655
+Actual:     17
+-------------------------------------------------
+-------------------------------------------------
+Predicted : 109,12389
+Actual:     13
+-------------------------------------------------
+-------------------------------------------------
+Predicted : 154,91045
+Actual:     211
+-------------------------------------------------
+-------------------------------------------------
+Predicted : 177,76472
+Actual:     238
+-------------------------------------------------
+-------------------------------------------------
+Predicted : 162,9562
+Actual:     201
+-------------------------------------------------
+-------------------------------------------------
+Predicted : 177,4298
+Actual:     222
+-------------------------------------------------
+-------------------------------------------------
+Predicted : 140,19666
+Actual:     164
+-------------------------------------------------
+-------------------------------------------------
+Predicted : 55,54054
+Actual:     11
+-------------------------------------------------
+================== Visualize/test 10 predictions for model SDCAModel.zip ==================
+-------------------------------------------------
+Predicted : 185,38295
+Actual:     190
+-------------------------------------------------
+-------------------------------------------------
+Predicted : 231,08754
+Actual:     154
+-------------------------------------------------
+-------------------------------------------------
+Predicted : 106,58055
+Actual:     17
+-------------------------------------------------
+-------------------------------------------------
+Predicted : 126,26892
+Actual:     13
+-------------------------------------------------
+-------------------------------------------------
+Predicted : 153,03673
+Actual:     211
+-------------------------------------------------
+-------------------------------------------------
+Predicted : 153,9064
+Actual:     238
+-------------------------------------------------
+-------------------------------------------------
+Predicted : 179,9468
+Actual:     201
+-------------------------------------------------
+-------------------------------------------------
+Predicted : 187,7423
+Actual:     222
+-------------------------------------------------
+-------------------------------------------------
+Predicted : 143,75131
+Actual:     164
+-------------------------------------------------
+-------------------------------------------------
+Predicted : 28,838867
+Actual:     11
+-------------------------------------------------
+================== Visualize/test 10 predictions for model FastTreeTweedieModel.zip ==================
+-------------------------------------------------
+Predicted : 48,37872
+Actual:     190
+-------------------------------------------------
+-------------------------------------------------
+Predicted : 216,26746
+Actual:     154
+-------------------------------------------------
+-------------------------------------------------
+Predicted : 8,256648
+Actual:     17
+-------------------------------------------------
+-------------------------------------------------
+Predicted : 10,032138
+Actual:     13
+-------------------------------------------------
+-------------------------------------------------
+Predicted : 155,5123
+Actual:     211
+-------------------------------------------------
+-------------------------------------------------
+Predicted : 234,79103
+Actual:     238
+-------------------------------------------------
+-------------------------------------------------
+Predicted : 218,3369
+Actual:     201
+-------------------------------------------------
+-------------------------------------------------
+Predicted : 216,56508
+Actual:     222
+-------------------------------------------------
+-------------------------------------------------
+Predicted : 214,78397
+Actual:     164
+-------------------------------------------------
+-------------------------------------------------
+Predicted : 7,8772373
+Actual:     11
+-------------------------------------------------
+================== Visualize/test 10 predictions for model FastForestModel.zip ==================
+-------------------------------------------------
+Predicted : 122,49797
+Actual:     190
+-------------------------------------------------
+-------------------------------------------------
+Predicted : 160,57095
+Actual:     154
+-------------------------------------------------
+-------------------------------------------------
+Predicted : 81,56362
+Actual:     17
+-------------------------------------------------
+-------------------------------------------------
+Predicted : 63,876118
+Actual:     13
+-------------------------------------------------
+-------------------------------------------------
+Predicted : 157,11896
+Actual:     211
+-------------------------------------------------
+-------------------------------------------------
+Predicted : 168,2555
+Actual:     238
+-------------------------------------------------
+-------------------------------------------------
+Predicted : 183,24814
+Actual:     201
+-------------------------------------------------
+-------------------------------------------------
+Predicted : 200,2099
+Actual:     222
+-------------------------------------------------
+-------------------------------------------------
+Predicted : 191,35974
+Actual:     164
+-------------------------------------------------
+-------------------------------------------------
+Predicted : 39,794262
+Actual:     11
+-------------------------------------------------
+================== Visualize/test 10 predictions for model GamModel.zip ==================
+-------------------------------------------------
+Predicted : 142,38054
+Actual:     190
+-------------------------------------------------
+-------------------------------------------------
+Predicted : 194,25359
+Actual:     154
+-------------------------------------------------
+-------------------------------------------------
+Predicted : 72,14321
+Actual:     17
+-------------------------------------------------
+-------------------------------------------------
+Predicted : 31,524162
+Actual:     13
+-------------------------------------------------
+-------------------------------------------------
+Predicted : 181,88655
+Actual:     211
+-------------------------------------------------
+-------------------------------------------------
+Predicted : 211,47212
+Actual:     238
+-------------------------------------------------
+-------------------------------------------------
+Predicted : 182,65804
+Actual:     201
+-------------------------------------------------
+-------------------------------------------------
+Predicted : 209,76
+Actual:     222
+-------------------------------------------------
+-------------------------------------------------
+Predicted : 198,46927
+Actual:     164
+-------------------------------------------------
+-------------------------------------------------
+Predicted : 48,39983
+Actual:     11
+-------------------------------------------------
+================== Visualize/test 10 predictions for model LightGbmModel.zip ==================
+-------------------------------------------------
+Predicted : 108,01251
+Actual:     190
+-------------------------------------------------
+-------------------------------------------------
+Predicted : 200,42029
+Actual:     154
+-------------------------------------------------
+-------------------------------------------------
+Predicted : 19,84737
+Actual:     17
+-------------------------------------------------
+-------------------------------------------------
+Predicted : 6,935007
+Actual:     13
+-------------------------------------------------
+-------------------------------------------------
+Predicted : 205,39662
+Actual:     211
+-------------------------------------------------
+-------------------------------------------------
+Predicted : 206,08592
+Actual:     238
+-------------------------------------------------
+-------------------------------------------------
+Predicted : 183,62575
+Actual:     201
+-------------------------------------------------
+-------------------------------------------------
+Predicted : 200,17363
+Actual:     222
+-------------------------------------------------
+-------------------------------------------------
+Predicted : 204,78001
+Actual:     164
+-------------------------------------------------
+-------------------------------------------------
+Predicted : 0,020413702
+Actual:     11
+-------------------------------------------------
+
+Press any key to finish.

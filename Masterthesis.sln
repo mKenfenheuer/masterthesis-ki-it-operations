@@ -1,0 +1,93 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IncidentAmountForecast", "IncidentAmountForecast", "{553D21B3-AD9B-4A3E-86AD-5B8CB5F2E40D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SingularSpectrumAnalysis", "SingularSpectrumAnalysis", "{F4E5071B-6BAF-4CF4-8B47-62B06107B2C2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Regression", "Regression", "{7E801CC3-0BE0-49AB-8CD5-D75151A0093E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ML.IncidentAmountForecast.Regression", "IncidentAmountForecast\Regression\ML.IncidentAmountForecast.Regression\ML.IncidentAmountForecast.Regression.csproj", "{7934851C-70EE-4BDA-A7D4-292D6A5480B5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ML.IncidentAmountForecast.SSA", "IncidentAmountForecast\SingularSpectrumAnalysis\ML.IncidentAmountForecast.SSA\ML.IncidentAmountForecast.SSA.csproj", "{E1504F14-07F8-4AF4-BA5B-B9F1993F0D31}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Experiments", "Experiments", "{26E547E0-58B2-4622-AA61-76863F2F5383}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IncidentClassificationExperiment", "Experiments\IncidentClassificationExperiment\IncidentClassificationExperiment.csproj", "{8AA518F2-772B-4C11-B8E8-3E824DB0E548}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KBARecommendationExperiment", "Experiments\KBARecommendationExperiment\KBARecommendationExperiment.csproj", "{7B60B3D8-19F5-4F8C-8F5C-0BF149BA27A2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventClassificationExperiment", "Experiments\EventClassificationExperiment\EventClassificationExperiment.csproj", "{0693729B-A94D-47DD-A924-225F310FC2DE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataSets", "DataSets", "{2BF932D1-F1FC-4901-AEA2-4D02588D44FC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Incidents", "Incidents", "{BACFABD8-3D1E-4831-8B31-52CFD995B125}"
+	ProjectSection(SolutionItems) = preProject
+		DataSets\Incidents\incident_data.csv = DataSets\Incidents\incident_data.csv
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Events", "Events", "{913DA3D2-97AF-43E9-BDC2-544A4FADAC19}"
+	ProjectSection(SolutionItems) = preProject
+		DataSets\Events\event_data.csv = DataSets\Events\event_data.csv
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "KnowledgeBase", "KnowledgeBase", "{FDA5AA0D-29D5-41C3-B115-5E1FA770B7B8}"
+	ProjectSection(SolutionItems) = preProject
+		DataSets\KnowledgeBases\train_tickets.csv = DataSets\KnowledgeBases\train_tickets.csv
+		DataSets\KnowledgeBases\train_tickets_kba.csv = DataSets\KnowledgeBases\train_tickets_kba.csv
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IncidentAmount", "IncidentAmount", "{0DE46CCF-BD6F-4A55-B676-B37AC4CFD5E0}"
+	ProjectSection(SolutionItems) = preProject
+		DataSets\IncidentAmount\data.csv = DataSets\IncidentAmount\data.csv
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7934851C-70EE-4BDA-A7D4-292D6A5480B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7934851C-70EE-4BDA-A7D4-292D6A5480B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7934851C-70EE-4BDA-A7D4-292D6A5480B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7934851C-70EE-4BDA-A7D4-292D6A5480B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1504F14-07F8-4AF4-BA5B-B9F1993F0D31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1504F14-07F8-4AF4-BA5B-B9F1993F0D31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1504F14-07F8-4AF4-BA5B-B9F1993F0D31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1504F14-07F8-4AF4-BA5B-B9F1993F0D31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AA518F2-772B-4C11-B8E8-3E824DB0E548}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AA518F2-772B-4C11-B8E8-3E824DB0E548}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AA518F2-772B-4C11-B8E8-3E824DB0E548}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AA518F2-772B-4C11-B8E8-3E824DB0E548}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B60B3D8-19F5-4F8C-8F5C-0BF149BA27A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B60B3D8-19F5-4F8C-8F5C-0BF149BA27A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B60B3D8-19F5-4F8C-8F5C-0BF149BA27A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B60B3D8-19F5-4F8C-8F5C-0BF149BA27A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0693729B-A94D-47DD-A924-225F310FC2DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0693729B-A94D-47DD-A924-225F310FC2DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0693729B-A94D-47DD-A924-225F310FC2DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0693729B-A94D-47DD-A924-225F310FC2DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F4E5071B-6BAF-4CF4-8B47-62B06107B2C2} = {553D21B3-AD9B-4A3E-86AD-5B8CB5F2E40D}
+		{7E801CC3-0BE0-49AB-8CD5-D75151A0093E} = {553D21B3-AD9B-4A3E-86AD-5B8CB5F2E40D}
+		{7934851C-70EE-4BDA-A7D4-292D6A5480B5} = {7E801CC3-0BE0-49AB-8CD5-D75151A0093E}
+		{E1504F14-07F8-4AF4-BA5B-B9F1993F0D31} = {F4E5071B-6BAF-4CF4-8B47-62B06107B2C2}
+		{8AA518F2-772B-4C11-B8E8-3E824DB0E548} = {26E547E0-58B2-4622-AA61-76863F2F5383}
+		{7B60B3D8-19F5-4F8C-8F5C-0BF149BA27A2} = {26E547E0-58B2-4622-AA61-76863F2F5383}
+		{0693729B-A94D-47DD-A924-225F310FC2DE} = {26E547E0-58B2-4622-AA61-76863F2F5383}
+		{BACFABD8-3D1E-4831-8B31-52CFD995B125} = {2BF932D1-F1FC-4901-AEA2-4D02588D44FC}
+		{913DA3D2-97AF-43E9-BDC2-544A4FADAC19} = {2BF932D1-F1FC-4901-AEA2-4D02588D44FC}
+		{FDA5AA0D-29D5-41C3-B115-5E1FA770B7B8} = {2BF932D1-F1FC-4901-AEA2-4D02588D44FC}
+		{0DE46CCF-BD6F-4A55-B676-B37AC4CFD5E0} = {2BF932D1-F1FC-4901-AEA2-4D02588D44FC}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {543B7C4A-A984-4823-8001-ADB69C1CE40B}
+	EndGlobalSection
+EndGlobal
